@@ -1,0 +1,13 @@
+pandas>=2.2
+numpy>=1.26
+streamlit>=1.50
+plotly>=5.20
+faker>=24.0
+scikit-learn>=1.4
+
+# Only needed if you want to rebuild/re-execute the notebook yourself:
+# jupyter
+# nbformat
+# nbconvert
+# seaborn
+# matplotlib
