@@ -1,0 +1,901 @@
+employee_id,full_name,gender,age_at_hire,branch,department,job_level,monthly_salary_bdt,hire_source,hire_date,termination_date,exit_reason,is_active,performance_rating,attendance_rate_pct,leave_balance_days,manager_id,tenure_days,tenure_months
+EMP0001,Alexander Hill,Male,23,Sylhet,Sales & Retail Ops,Entry,23270,Employee referral,2025-08-10,,,True,3,95.8,15.5,EMP0001,315,10.3
+EMP0002,Noah Rhodes,Male,28,Dhaka - Mirpur,Warehouse & Logistics,Entry,22265,Walk-in,2024-10-09,2025-01-02,Performance-related,False,4,89.5,1.9,EMP0001,85,2.8
+EMP0003,Angie Henderson,Female,27,Chattogram,Sales & Retail Ops,Mid,30555,Employee referral,2022-02-18,,,True,2,89.8,9.5,EMP0001,1584,52.0
+EMP0004,Daniel Wagner,Male,23,Dhaka - Gulshan,Sales & Retail Ops,Manager,70747,Walk-in,2022-11-05,,,True,1,89.2,12.4,EMP0001,1324,43.5
+EMP0005,Cristian Santos,Male,26,Sylhet,IT & Systems,Mid,33734,Online application,2026-05-21,,,True,3,95.5,13.3,EMP0001,31,1.0
+EMP0006,Daniel Lawrence,Male,19,Rajshahi,Merchandising,Senior,56502,Walk-in,2025-07-01,,,True,4,97.7,5.6,EMP0001,355,11.7
+EMP0007,Aaron Shaffer,Male,31,Dhaka - Gulshan,Sales & Retail Ops,Entry,16775,Employee referral,2023-10-29,2024-05-21,Resignation - better opportunity,False,2,94.3,0.0,EMP0001,205,6.7
+EMP0008,Gina Moore,Female,19,Dhaka - Mirpur,Sales & Retail Ops,Manager,108757,Walk-in,2025-02-27,,,True,2,94.0,11.3,EMP0001,479,15.7
+EMP0009,Gabrielle Davis,Female,26,Dhaka - Mirpur,Warehouse & Logistics,Manager,79534,Employee referral,2024-12-19,,,True,2,84.1,7.1,EMP0001,549,18.0
+EMP0010,Ryan Munoz,Male,29,Khulna,Sales & Retail Ops,Entry,25268,Walk-in,2023-10-11,,,True,3,83.9,12.9,EMP0001,984,32.3
+EMP0011,Nicholas Herrera,Male,30,Rajshahi,Sales & Retail Ops,Mid,31276,Online application,2026-03-14,2026-04-15,Resignation - better opportunity,False,3,98.4,7.0,EMP0001,32,1.1
+EMP0012,Mrs. Kristen Calderon,Female,30,Sylhet,Sales & Retail Ops,Mid,36470,Walk-in,2024-05-08,,,True,3,92.0,14.7,EMP0001,774,25.4
+EMP0013,Scott Ray,Male,26,Chattogram,Sales & Retail Ops,Entry,19104,Employee referral,2025-03-23,2025-12-11,Resignation - better opportunity,False,2,100.0,0.4,EMP0001,263,8.6
+EMP0014,Amber Perez,Female,19,Chattogram,Marketing,Mid,34154,Walk-in,2026-01-09,,,True,4,87.4,13.1,EMP0001,163,5.4
+EMP0015,Angela Hall,Female,26,Khulna,Merchandising,Entry,25062,Online application,2022-12-18,,,True,2,93.9,9.5,EMP0001,1281,42.1
+EMP0016,Donald Reid,Male,27,Head Office,Quality Control,Entry,23408,Agency,2023-05-04,,,True,1,91.7,11.4,EMP0001,1144,37.6
+EMP0017,Jacob Clark,Male,19,Dhaka - Gulshan,HR & Admin,Mid,32892,Online application,2025-09-11,,,True,3,93.8,12.4,EMP0001,283,9.3
+EMP0018,Timothy Wong,Male,28,Chattogram,Sales & Retail Ops,Entry,19157,Agency,2026-03-31,,,True,3,89.3,8.7,EMP0001,82,2.7
+EMP0019,Carolyn Daniel,Female,34,Dhaka - Gulshan,Sales & Retail Ops,Senior,55931,Online application,2022-10-20,2022-12-07,Contract end,False,3,91.1,6.7,EMP0001,48,1.6
+EMP0020,James Mayo,Male,19,Khulna,Sales & Retail Ops,Mid,39688,Agency,2023-10-07,,,True,2,93.8,5.0,EMP0001,988,32.5
+EMP0021,Justin Cohen,Male,24,Dhaka - Mirpur,Merchandising,Mid,30413,Campus hiring,2023-12-23,,,True,2,95.7,9.3,EMP0015,911,29.9
+EMP0022,Ricardo Perez,Male,21,Rajshahi,Warehouse & Logistics,Entry,17495,Online application,2022-04-20,,,True,4,92.9,3.3,EMP0001,1523,50.0
+EMP0023,Emily Adams,Female,24,Dhaka - Mirpur,HR & Admin,Entry,23280,Walk-in,2026-01-08,,,True,3,100.0,4.3,EMP0022,164,5.4
+EMP0024,Terri Walter,Female,28,Chattogram,Merchandising,Mid,31172,Walk-in,2025-01-14,,,True,3,97.6,5.4,EMP0014,523,17.2
+EMP0025,Matthew Foster,Male,19,Dhaka - Mirpur,Sales & Retail Ops,Entry,16202,Employee referral,2024-08-15,,,True,2,92.2,15.6,EMP0021,675,22.2
+EMP0026,Judy Baker,Female,30,Dhaka - Mirpur,Warehouse & Logistics,Entry,23777,Walk-in,2023-09-09,,,True,4,87.1,7.7,EMP0014,1016,33.4
+EMP0027,Justin Baker,Male,24,Dhaka - Mirpur,Warehouse & Logistics,Senior,57708,Agency,2025-11-06,,,True,3,97.3,6.2,EMP0021,227,7.5
+EMP0028,Stephanie Ross,Female,21,Head Office,IT & Systems,Manager,79411,Walk-in,2025-12-25,,,True,3,87.5,16.2,EMP0007,178,5.8
+EMP0029,Zachary Hicks,Male,29,Rajshahi,Quality Control,Entry,18385,Agency,2024-04-24,,,True,3,88.0,12.7,EMP0010,788,25.9
+EMP0030,Anthony Rodriguez,Male,25,Chattogram,Marketing,Manager,89918,Walk-in,2025-07-18,,,True,3,99.3,12.1,EMP0002,338,11.1
+EMP0031,Ricky Henderson,Male,19,Sylhet,Merchandising,Mid,35208,Online application,2025-01-25,,,True,3,99.0,10.6,EMP0006,512,16.8
+EMP0032,James Ferrell,Male,20,Dhaka - Mirpur,Merchandising,Senior,49158,Agency,2022-09-06,,,True,2,96.1,11.2,EMP0031,1384,45.5
+EMP0033,Wesley Valencia,Male,32,Rajshahi,Sales & Retail Ops,Mid,32295,Employee referral,2024-06-07,,,True,3,96.9,14.4,EMP0017,744,24.4
+EMP0034,Nathan Maldonado,Male,27,Dhaka - Mirpur,Finance & Accounts,Entry,24445,Walk-in,2025-05-20,2025-07-25,Performance-related,False,2,99.3,9.3,EMP0005,66,2.2
+EMP0035,Derek Davidson,Male,26,Dhaka - Mirpur,HR & Admin,Mid,34352,Online application,2024-11-22,2025-11-11,Resignation - better opportunity,False,2,90.2,0.0,EMP0005,354,11.6
+EMP0036,Jessica Chavez,Female,31,Rajshahi,Warehouse & Logistics,Entry,17218,Employee referral,2025-06-29,,,True,4,91.5,7.0,EMP0034,357,11.7
+EMP0037,Sherri Baker,Female,29,Dhaka - Mirpur,IT & Systems,Entry,19446,Walk-in,2026-04-11,,,True,2,92.9,11.7,EMP0007,71,2.3
+EMP0038,Christopher Gaines,Male,34,Khulna,Sales & Retail Ops,Entry,16225,Employee referral,2024-02-11,,,True,2,98.1,11.6,EMP0033,861,28.3
+EMP0039,Edwin Fowler,Male,42,Chattogram,Quality Control,Senior,49996,Walk-in,2024-06-13,2024-10-28,Contract end,False,3,92.9,4.8,EMP0017,137,4.5
+EMP0040,Christian Farmer,Male,26,Dhaka - Mirpur,Warehouse & Logistics,Mid,36757,Campus hiring,2022-12-19,,,True,3,90.3,13.1,EMP0010,1280,42.0
+EMP0041,Richard Moreno,Male,23,Chattogram,IT & Systems,Mid,26980,Online application,2023-01-21,,,True,2,79.1,8.9,EMP0003,1247,41.0
+EMP0042,Fred Smith,Male,20,Rajshahi,Sales & Retail Ops,Entry,21854,Agency,2025-10-03,,,True,4,87.9,5.9,EMP0040,261,8.6
+EMP0043,Shawn Decker,Male,29,Khulna,Marketing,Entry,16784,Walk-in,2025-10-27,,,True,4,89.0,3.2,EMP0012,237,7.8
+EMP0044,Amy Humphrey,Female,29,Khulna,Warehouse & Logistics,Manager,118993,Employee referral,2026-01-13,,,True,5,96.4,14.5,EMP0007,159,5.2
+EMP0045,Bradley Tucker,Male,27,Chattogram,Sales & Retail Ops,Mid,30495,Online application,2026-03-18,,,True,2,100.0,7.3,EMP0015,95,3.1
+EMP0046,Philip Cannon,Male,39,Dhaka - Gulshan,HR & Admin,Entry,20146,Employee referral,2022-09-10,2022-09-24,Resignation - personal reasons,False,1,97.1,0.0,EMP0044,14,0.5
+EMP0047,John Pierce,Male,19,Head Office,Merchandising,Manager,110675,Walk-in,2026-05-18,,,True,3,89.8,13.1,EMP0017,34,1.1
+EMP0048,Shelia Henderson,Female,33,Dhaka - Mirpur,Merchandising,Entry,16004,Campus hiring,2024-07-02,2025-11-18,Relocation,False,3,90.8,0.0,EMP0013,504,16.6
+EMP0049,Kimberly Blair,Female,19,Dhaka - Gulshan,Finance & Accounts,Entry,23079,Employee referral,2024-11-24,,,True,3,89.0,13.4,EMP0043,574,18.9
+EMP0050,Emily Carney,Female,22,Dhaka - Mirpur,Warehouse & Logistics,Manager,96251,Employee referral,2025-03-18,2025-04-12,Relocation,False,3,100.0,1.3,EMP0033,25,0.8
+EMP0051,Jeffrey Holmes,Male,19,Dhaka - Gulshan,Warehouse & Logistics,Entry,16512,Online application,2023-01-21,,,True,2,94.1,12.3,EMP0044,1247,41.0
+EMP0052,Danny Morgan,Male,29,Khulna,Sales & Retail Ops,Mid,39500,Online application,2025-12-07,,,True,4,85.0,17.4,EMP0051,196,6.4
+EMP0053,David Robinson,Male,20,Sylhet,HR & Admin,Mid,29147,Online application,2023-07-09,,,True,3,91.0,6.7,EMP0051,1078,35.4
+EMP0054,Lynn Perez,Female,29,Khulna,HR & Admin,Entry,25435,Walk-in,2025-03-12,,,True,3,87.4,9.8,EMP0016,466,15.3
+EMP0055,Scott Jones,Male,23,Sylhet,Sales & Retail Ops,Entry,18479,Online application,2023-09-02,,,True,4,100.0,8.0,EMP0005,1023,33.6
+EMP0056,Maureen Lewis,Female,35,Chattogram,Quality Control,Mid,31881,Online application,2024-04-15,,,True,4,92.2,8.1,EMP0045,797,26.2
+EMP0057,Timothy Duncan,Male,27,Dhaka - Mirpur,Finance & Accounts,Senior,65289,Walk-in,2024-06-15,,,True,3,100.0,11.7,EMP0034,736,24.2
+EMP0058,Richard Aguirre,Male,28,Chattogram,Merchandising,Senior,61223,Online application,2023-02-03,,,True,3,96.6,14.1,EMP0036,1234,40.5
+EMP0059,Brent Jordan,Male,23,Sylhet,Marketing,Senior,53938,Online application,2025-07-19,,,True,4,97.1,10.3,EMP0036,337,11.1
+EMP0060,John Daniel,Male,29,Chattogram,Sales & Retail Ops,Senior,50002,Agency,2025-08-29,,,True,4,89.0,6.5,EMP0050,296,9.7
+EMP0061,William Garcia,Male,28,Chattogram,HR & Admin,Entry,20107,Walk-in,2023-11-11,2025-03-09,Resignation - personal reasons,False,2,91.8,2.0,EMP0009,484,15.9
+EMP0062,Gerald Hensley,Male,20,Dhaka - Mirpur,Warehouse & Logistics,Entry,25817,Online application,2024-05-31,,,True,2,100.0,9.8,EMP0004,751,24.7
+EMP0063,Connor West,Male,31,Dhaka - Mirpur,Warehouse & Logistics,Senior,47745,Agency,2025-06-19,,,True,3,97.9,12.5,EMP0025,367,12.1
+EMP0064,Donald Wright,Male,30,Chattogram,Marketing,Entry,24867,Agency,2026-02-15,,,True,2,82.3,5.1,EMP0048,126,4.1
+EMP0065,Jeremy Callahan,Male,27,Chattogram,Merchandising,Entry,25879,Walk-in,2024-07-01,,,True,4,97.6,5.6,EMP0052,720,23.7
+EMP0066,Amber Kidd,Female,24,Khulna,Quality Control,Senior,52518,Agency,2024-11-18,,,True,3,93.1,13.7,EMP0004,580,19.1
+EMP0067,Wayne House,Male,19,Dhaka - Mirpur,Warehouse & Logistics,Senior,56191,Online application,2023-09-28,,,True,2,95.4,9.5,EMP0044,997,32.8
+EMP0068,Carol Tucker,Female,27,Khulna,Warehouse & Logistics,Mid,28782,Walk-in,2023-09-15,2024-02-07,Resignation - personal reasons,False,3,88.1,12.4,EMP0045,145,4.8
+EMP0069,James Brown,Male,19,Dhaka - Gulshan,Sales & Retail Ops,Manager,91576,Walk-in,2022-05-24,,,True,3,100.0,11.6,EMP0020,1489,48.9
+EMP0070,Victoria Baker,Female,29,Dhaka - Gulshan,Warehouse & Logistics,Entry,20846,Walk-in,2024-08-12,2024-09-03,Resignation - personal reasons,False,2,88.1,5.0,EMP0015,22,0.7
+EMP0071,Jesse Henderson,Male,24,Khulna,Sales & Retail Ops,Entry,17191,Online application,2026-03-30,,,True,3,84.3,4.4,EMP0049,83,2.7
+EMP0072,Whitney Peters,Female,28,Chattogram,Finance & Accounts,Entry,24691,Walk-in,2025-03-23,,,True,3,82.5,14.3,EMP0016,455,14.9
+EMP0073,Christopher Phillips,Male,19,Khulna,Merchandising,Entry,23419,Walk-in,2025-05-07,,,True,4,91.2,10.0,EMP0002,410,13.5
+EMP0074,Ms. Kimberly Adkins,Female,35,Rajshahi,IT & Systems,Entry,25435,Agency,2025-04-03,,,True,3,96.9,12.1,EMP0056,444,14.6
+EMP0075,Kevin Shaw,Male,29,Dhaka - Mirpur,Merchandising,Mid,36150,Employee referral,2026-03-20,,,True,4,92.3,11.6,EMP0035,93,3.1
+EMP0076,Christopher Yu,Male,27,Dhaka - Gulshan,Sales & Retail Ops,Manager,96016,Employee referral,2024-07-23,,,True,2,100.0,8.9,EMP0049,698,22.9
+EMP0077,Cody Larson,Male,28,Dhaka - Gulshan,Warehouse & Logistics,Entry,22316,Walk-in,2024-03-01,,,True,3,93.6,6.9,EMP0036,842,27.7
+EMP0078,David Wilson,Male,34,Chattogram,Merchandising,Entry,22190,Online application,2024-05-18,,,True,3,100.0,6.9,EMP0061,764,25.1
+EMP0079,David Wheeler,Male,34,Sylhet,Warehouse & Logistics,Senior,50053,Employee referral,2023-07-23,2023-08-21,Resignation - personal reasons,False,2,92.1,1.6,EMP0061,29,1.0
+EMP0080,Jason Silva,Male,22,Chattogram,Warehouse & Logistics,Manager,121620,Online application,2024-02-25,2024-10-09,Resignation - better opportunity,False,2,80.3,1.9,EMP0025,227,7.5
+EMP0081,Taylor Harris,Female,19,Dhaka - Gulshan,Finance & Accounts,Manager,95355,Employee referral,2023-05-29,2023-08-22,Resignation - personal reasons,False,2,90.0,3.8,EMP0068,85,2.8
+EMP0082,David Foster,Male,30,Sylhet,Marketing,Senior,64516,Online application,2024-03-10,,,True,3,97.5,15.9,EMP0017,833,27.4
+EMP0083,Elizabeth Stewart,Female,20,Dhaka - Gulshan,Marketing,Mid,40785,Agency,2023-01-19,,,True,3,100.0,8.2,EMP0002,1249,41.0
+EMP0084,Benjamin Ellis,Male,19,Sylhet,Warehouse & Logistics,Entry,18193,Campus hiring,2022-07-24,,,True,4,92.3,15.0,EMP0009,1428,46.9
+EMP0085,Dr. Benjamin Lewis III,Male,28,Chattogram,Sales & Retail Ops,Mid,33266,Online application,2023-03-07,2024-12-01,Other,False,2,100.0,4.9,EMP0016,635,20.9
+EMP0086,Stanley Suarez,Male,24,Chattogram,Warehouse & Logistics,Mid,33190,Online application,2025-09-28,,,True,3,86.6,9.4,EMP0039,266,8.7
+EMP0087,Brooke Bass,Female,19,Rajshahi,Marketing,Entry,20780,Employee referral,2025-02-28,,,True,3,99.4,16.2,EMP0027,478,15.7
+EMP0088,Logan Archer,Male,19,Sylhet,Sales & Retail Ops,Entry,19419,Walk-in,2024-12-12,2026-02-25,Performance-related,False,2,89.9,7.6,EMP0061,440,14.5
+EMP0089,Aimee Montoya,Female,32,Dhaka - Gulshan,Sales & Retail Ops,Mid,34427,Employee referral,2024-07-28,,,True,3,86.9,8.9,EMP0081,693,22.8
+EMP0090,Matthew Mcmillan,Male,34,Sylhet,IT & Systems,Entry,19374,Walk-in,2023-07-29,2025-03-26,Resignation - better opportunity,False,2,99.9,6.1,EMP0008,606,19.9
+EMP0091,Brian Rodriguez,Male,27,Dhaka - Mirpur,Sales & Retail Ops,Mid,39051,Walk-in,2023-11-15,,,True,3,97.9,18.2,EMP0090,949,31.2
+EMP0092,Dominic Jacobs,Male,25,Chattogram,Sales & Retail Ops,Mid,36674,Agency,2025-02-12,,,True,3,100.0,10.3,EMP0078,494,16.2
+EMP0093,Christina Walters,Female,28,Dhaka - Gulshan,Sales & Retail Ops,Manager,122267,Campus hiring,2025-01-13,,,True,1,98.8,12.6,EMP0087,524,17.2
+EMP0094,John Whitehead,Male,26,Rajshahi,Merchandising,Mid,26137,Online application,2024-10-28,,,True,3,91.3,3.3,EMP0075,601,19.7
+EMP0095,Brandon Henderson,Male,19,Chattogram,IT & Systems,Manager,95169,Online application,2024-05-21,,,True,4,95.3,4.5,EMP0021,761,25.0
+EMP0096,April Wise,Female,19,Dhaka - Gulshan,HR & Admin,Entry,17906,Online application,2025-11-13,,,True,4,82.4,16.0,EMP0041,220,7.2
+EMP0097,Deborah Figueroa,Female,20,Dhaka - Gulshan,Sales & Retail Ops,Senior,64415,Walk-in,2025-11-27,,,True,3,97.5,8.8,EMP0060,206,6.8
+EMP0098,Jessica Smith,Female,29,Chattogram,Sales & Retail Ops,Entry,19266,Employee referral,2025-03-20,,,True,3,84.8,12.0,EMP0071,458,15.0
+EMP0099,Stephen Mckee,Male,22,Dhaka - Mirpur,Sales & Retail Ops,Senior,63969,Employee referral,2022-05-17,,,True,2,84.4,9.2,EMP0091,1496,49.1
+EMP0100,Ruben Aguilar,Male,24,Dhaka - Mirpur,Merchandising,Mid,28593,Agency,2026-06-12,,,True,2,89.2,8.9,EMP0016,9,0.3
+EMP0101,Cameron Parker,Male,23,Sylhet,Sales & Retail Ops,Manager,90574,Online application,2025-07-02,,,True,3,92.3,9.1,EMP0061,354,11.6
+EMP0102,Rebecca Valencia,Female,27,Dhaka - Gulshan,Merchandising,Entry,17276,Agency,2024-10-13,,,True,3,92.8,10.2,EMP0036,616,20.2
+EMP0103,Christine Wright,Female,36,Khulna,Quality Control,Entry,24150,Walk-in,2023-10-10,,,True,3,95.4,6.9,EMP0076,985,32.4
+EMP0104,Richard Henson,Male,43,Sylhet,HR & Admin,Senior,59302,Online application,2024-09-09,,,True,4,92.2,6.2,EMP0049,650,21.4
+EMP0105,Lisa Moore,Female,22,Chattogram,Warehouse & Logistics,Entry,22882,Walk-in,2025-01-08,,,True,3,88.4,12.3,EMP0006,529,17.4
+EMP0106,Sean Cherry,Male,21,Dhaka - Gulshan,Warehouse & Logistics,Senior,43062,Employee referral,2026-06-07,,,True,2,88.4,8.6,EMP0020,14,0.5
+EMP0107,Stanley Johnson,Male,25,Chattogram,Sales & Retail Ops,Mid,32288,Agency,2026-01-20,,,True,1,100.0,4.8,EMP0068,152,5.0
+EMP0108,Evelyn Galvan,Female,40,Rajshahi,Sales & Retail Ops,Entry,22371,Walk-in,2026-05-17,,,True,4,90.4,16.3,EMP0034,35,1.1
+EMP0109,Sharon Cochran,Female,19,Dhaka - Gulshan,HR & Admin,Mid,32738,Agency,2025-12-30,,,True,2,94.4,13.4,EMP0041,173,5.7
+EMP0110,Richard Rodriguez,Male,19,Sylhet,Quality Control,Mid,37706,Walk-in,2025-03-10,,,True,3,89.1,8.1,EMP0037,468,15.4
+EMP0111,Scott Walker,Male,27,Head Office,Finance & Accounts,Entry,22986,Agency,2025-03-31,,,True,3,92.9,11.8,EMP0089,447,14.7
+EMP0112,Joe Torres,Male,28,Dhaka - Gulshan,Sales & Retail Ops,Entry,21560,Online application,2024-03-06,2024-06-10,Resignation - better opportunity,False,4,100.0,3.7,EMP0088,96,3.2
+EMP0113,Crystal Johnson,Female,21,Khulna,Sales & Retail Ops,Entry,25333,Walk-in,2025-03-13,,,True,3,94.3,16.8,EMP0019,465,15.3
+EMP0114,Erin Lin,Female,19,Dhaka - Gulshan,HR & Admin,Mid,28048,Online application,2026-02-23,,,True,3,86.2,11.1,EMP0070,118,3.9
+EMP0115,Mr. Martin Ross,Male,23,Dhaka - Mirpur,Warehouse & Logistics,Entry,22988,Online application,2025-04-07,2025-05-04,Contract end,False,3,87.8,2.5,EMP0026,27,0.9
+EMP0116,Joshua Crosby Jr.,Male,30,Head Office,Quality Control,Entry,18219,Walk-in,2024-03-07,,,True,2,100.0,7.6,EMP0003,836,27.5
+EMP0117,Mr. Victor Baker,Male,30,Head Office,HR & Admin,Entry,19490,Employee referral,2025-06-07,,,True,3,95.2,7.6,EMP0078,379,12.5
+EMP0118,Jessica Chandler,Female,30,Khulna,IT & Systems,Senior,61019,Employee referral,2023-08-07,,,True,3,96.5,12.0,EMP0025,1049,34.5
+EMP0119,Lisa Dixon,Female,24,Sylhet,HR & Admin,Mid,35444,Employee referral,2025-12-13,,,True,2,95.4,8.3,EMP0083,190,6.2
+EMP0120,Kenneth Scott,Male,31,Dhaka - Mirpur,IT & Systems,Entry,23546,Agency,2023-01-30,,,True,3,97.9,3.2,EMP0054,1238,40.7
+EMP0121,April Frost,Female,25,Dhaka - Mirpur,Sales & Retail Ops,Mid,36641,Agency,2024-11-13,,,True,4,88.9,1.1,EMP0033,585,19.2
+EMP0122,Nathan Harmon,Male,19,Rajshahi,Marketing,Manager,74565,Employee referral,2026-01-20,,,True,4,81.8,14.0,EMP0010,152,5.0
+EMP0123,Helen Jones,Female,31,Dhaka - Mirpur,Marketing,Senior,53246,Campus hiring,2026-05-29,,,True,1,94.4,13.1,EMP0047,23,0.8
+EMP0124,Gary Edwards,Male,19,Dhaka - Mirpur,Warehouse & Logistics,Entry,17970,Employee referral,2024-03-22,2024-05-08,Resignation - better opportunity,False,2,98.5,8.4,EMP0082,47,1.5
+EMP0125,Nathan Evans,Male,30,Head Office,Sales & Retail Ops,Entry,21742,Online application,2026-02-06,,,True,5,94.1,11.0,EMP0029,135,4.4
+EMP0126,Jennifer Powell,Female,31,Sylhet,HR & Admin,Mid,36789,Walk-in,2025-04-21,2025-07-26,Resignation - better opportunity,False,4,90.0,5.6,EMP0064,96,3.2
+EMP0127,Cameron Fisher,Male,29,Dhaka - Mirpur,Sales & Retail Ops,Mid,36049,Campus hiring,2024-03-26,,,True,3,99.2,8.0,EMP0070,817,26.8
+EMP0128,Michael Orr,Male,22,Chattogram,Finance & Accounts,Entry,23326,Online application,2022-11-20,,,True,1,93.3,20.0,EMP0122,1309,43.0
+EMP0129,Eric Kelley,Male,24,Dhaka - Gulshan,HR & Admin,Entry,19719,Online application,2023-08-18,,,True,2,98.8,13.9,EMP0095,1038,34.1
+EMP0130,Dustin Jordan,Male,34,Chattogram,Marketing,Entry,16094,Walk-in,2023-05-25,,,True,4,97.3,16.3,EMP0117,1123,36.9
+EMP0131,Mary Marshall,Female,19,Dhaka - Mirpur,Sales & Retail Ops,Mid,31779,Online application,2022-07-22,,,True,4,96.9,9.8,EMP0053,1430,47.0
+EMP0132,Daniel Kennedy,Male,25,Dhaka - Mirpur,Finance & Accounts,Entry,18443,Online application,2026-01-20,2026-02-17,Relocation,False,2,96.9,10.3,EMP0001,28,0.9
+EMP0133,Robert Jackson,Male,29,Dhaka - Gulshan,Marketing,Manager,83343,Walk-in,2025-10-26,,,True,3,88.3,11.9,EMP0034,238,7.8
+EMP0134,Jose Schultz,Male,23,Dhaka - Mirpur,IT & Systems,Entry,24795,Walk-in,2023-04-26,,,True,3,91.0,8.1,EMP0030,1152,37.8
+EMP0135,Robert Potter,Male,40,Khulna,Warehouse & Logistics,Senior,45417,Online application,2022-12-12,,,True,3,89.5,9.5,EMP0012,1287,42.3
+EMP0136,Danny Gonzalez,Male,30,Khulna,Quality Control,Mid,41496,Walk-in,2025-04-13,,,True,2,87.5,11.0,EMP0103,434,14.3
+EMP0137,David Alvarez,Male,31,Chattogram,Sales & Retail Ops,Mid,40579,Online application,2026-02-24,,,True,3,85.3,4.8,EMP0033,117,3.8
+EMP0138,Benjamin Perry,Male,24,Dhaka - Gulshan,HR & Admin,Mid,29600,Online application,2026-06-14,,,True,3,91.9,11.3,EMP0111,7,0.2
+EMP0139,Cheyenne Horton,Female,19,Dhaka - Mirpur,Finance & Accounts,Senior,54312,Employee referral,2025-09-19,,,True,3,91.6,12.8,EMP0116,275,9.0
+EMP0140,David Douglas,Male,23,Rajshahi,Warehouse & Logistics,Senior,46757,Online application,2025-08-01,2026-01-07,Resignation - better opportunity,False,2,95.7,4.1,EMP0040,159,5.2
+EMP0141,Paul Carrillo,Male,22,Khulna,Warehouse & Logistics,Entry,20243,Employee referral,2024-06-25,,,True,3,93.0,10.6,EMP0034,726,23.9
+EMP0142,Jeffery Thompson,Male,22,Chattogram,Merchandising,Mid,35984,Online application,2023-01-10,,,True,1,100.0,8.7,EMP0109,1258,41.3
+EMP0143,Joseph Williams,Male,23,Rajshahi,Finance & Accounts,Manager,95965,Online application,2024-02-25,2024-09-28,Performance-related,False,2,92.8,1.8,EMP0058,216,7.1
+EMP0144,Ryan Bryant,Male,32,Rajshahi,Warehouse & Logistics,Mid,28065,Walk-in,2023-10-30,,,True,2,100.0,17.8,EMP0143,965,31.7
+EMP0145,Michael Travis,Male,33,Dhaka - Mirpur,Marketing,Senior,47232,Employee referral,2023-05-08,,,True,1,90.9,8.5,EMP0087,1140,37.5
+EMP0146,Tiffany Vance,Female,22,Dhaka - Gulshan,Sales & Retail Ops,Entry,24038,Employee referral,2022-09-10,,,True,3,93.4,13.8,EMP0024,1380,45.3
+EMP0147,Nathan Wagner,Male,29,Khulna,Sales & Retail Ops,Entry,16054,Employee referral,2024-03-24,,,True,2,92.5,10.1,EMP0146,819,26.9
+EMP0148,Kimberly Merritt,Female,30,Sylhet,Quality Control,Entry,21954,Walk-in,2022-07-19,,,True,2,89.9,12.0,EMP0109,1433,47.1
+EMP0149,Karen Green,Female,36,Chattogram,Warehouse & Logistics,Entry,23776,Online application,2022-12-23,,,True,3,100.0,11.7,EMP0125,1276,41.9
+EMP0150,Marcia Cannon,Female,19,Chattogram,Sales & Retail Ops,Entry,20547,Walk-in,2022-08-02,,,True,2,94.4,7.1,EMP0036,1419,46.6
+EMP0151,Mark Hill,Male,28,Khulna,Sales & Retail Ops,Entry,18198,Walk-in,2024-06-23,,,True,3,96.2,11.0,EMP0059,728,23.9
+EMP0152,Dustin Nelson,Male,20,Chattogram,IT & Systems,Senior,65236,Walk-in,2026-01-10,2026-04-01,Relocation,False,2,100.0,0.0,EMP0081,81,2.7
+EMP0153,Joshua Taylor,Male,33,Sylhet,Merchandising,Mid,40596,Walk-in,2022-12-26,,,True,2,98.7,8.6,EMP0118,1273,41.8
+EMP0154,Melissa Mccarthy,Female,32,Rajshahi,Quality Control,Entry,21986,Employee referral,2023-08-30,,,True,3,91.0,15.4,EMP0102,1026,33.7
+EMP0155,Jennifer Daniels,Female,36,Rajshahi,Finance & Accounts,Entry,19186,Employee referral,2022-09-27,,,True,3,88.2,16.5,EMP0050,1363,44.8
+EMP0156,Christine Fisher,Female,27,Rajshahi,Warehouse & Logistics,Mid,33368,Walk-in,2025-11-15,2026-02-02,Resignation - better opportunity,False,3,93.1,5.4,EMP0155,79,2.6
+EMP0157,Lauren Dominguez,Female,28,Dhaka - Mirpur,Finance & Accounts,Entry,24996,Online application,2025-03-24,,,True,2,95.4,3.2,EMP0149,454,14.9
+EMP0158,Pamela James,Female,36,Chattogram,Marketing,Mid,41512,Agency,2025-03-19,,,True,3,87.6,6.4,EMP0039,459,15.1
+EMP0159,Heather Molina,Female,35,Chattogram,Warehouse & Logistics,Mid,39018,Online application,2025-02-03,,,True,4,87.0,12.0,EMP0119,503,16.5
+EMP0160,Troy Barnes,Male,34,Chattogram,Sales & Retail Ops,Senior,44969,Agency,2026-01-13,,,True,2,81.9,6.0,EMP0130,159,5.2
+EMP0161,Kimberly Morrison,Female,28,Chattogram,Merchandising,Manager,129120,Agency,2022-06-24,,,True,2,89.3,4.4,EMP0049,1458,47.9
+EMP0162,Daniel Graham,Male,31,Dhaka - Gulshan,Warehouse & Logistics,Entry,21415,Agency,2022-11-30,,,True,3,97.5,16.0,EMP0022,1299,42.7
+EMP0163,George Shelton,Male,38,Chattogram,Sales & Retail Ops,Entry,17333,Online application,2024-07-06,2024-09-06,Resignation - better opportunity,False,2,93.6,4.7,EMP0073,62,2.0
+EMP0164,Christopher Mcdonald,Male,20,Chattogram,Finance & Accounts,Mid,33715,Online application,2025-03-28,,,True,3,94.4,10.9,EMP0143,450,14.8
+EMP0165,Lisa Johnson,Female,19,Sylhet,Sales & Retail Ops,Mid,33674,Agency,2026-03-04,,,True,3,90.9,11.0,EMP0150,109,3.6
+EMP0166,Kristy Johnson,Female,26,Sylhet,Quality Control,Entry,18343,Walk-in,2025-05-07,,,True,4,89.2,17.2,EMP0022,410,13.5
+EMP0167,Brandy Murray,Female,32,Dhaka - Gulshan,Warehouse & Logistics,Senior,55350,Agency,2025-05-18,,,True,2,94.3,17.8,EMP0135,399,13.1
+EMP0168,James Lewis,Male,32,Dhaka - Mirpur,HR & Admin,Mid,30107,Campus hiring,2023-12-19,,,True,3,97.9,12.5,EMP0125,915,30.1
+EMP0169,Philip Gray,Male,31,Dhaka - Mirpur,Marketing,Entry,17750,Online application,2025-10-13,,,True,4,100.0,14.1,EMP0135,251,8.2
+EMP0170,Ronnie King,Male,29,Dhaka - Mirpur,Warehouse & Logistics,Mid,34680,Walk-in,2024-04-04,,,True,3,94.6,4.9,EMP0160,808,26.5
+EMP0171,Alec Ryan,Male,29,Khulna,Sales & Retail Ops,Entry,16390,Walk-in,2025-05-26,,,True,3,99.8,9.7,EMP0073,391,12.8
+EMP0172,Mr. Matthew Harrington DDS,Male,34,Khulna,IT & Systems,Entry,25126,Employee referral,2026-05-12,,,True,1,100.0,15.2,EMP0050,40,1.3
+EMP0173,Travis Gonzalez,Male,24,Dhaka - Gulshan,Marketing,Manager,120375,Online application,2023-11-04,,,True,2,94.3,8.1,EMP0042,960,31.5
+EMP0174,Christian Martinez,Male,19,Khulna,IT & Systems,Entry,18983,Agency,2025-04-10,,,True,2,100.0,11.3,EMP0027,437,14.4
+EMP0175,Justin Robinson,Male,33,Khulna,Merchandising,Entry,21468,Online application,2023-03-30,,,True,3,77.1,12.9,EMP0112,1179,38.7
+EMP0176,Pamela Jackson,Female,27,Dhaka - Mirpur,Quality Control,Senior,51323,Online application,2026-04-01,,,True,4,89.9,15.6,EMP0096,81,2.7
+EMP0177,Paul Wilson,Male,41,Dhaka - Gulshan,Marketing,Entry,24436,Agency,2026-04-02,,,True,2,88.9,3.9,EMP0038,80,2.6
+EMP0178,Traci Rodriguez,Female,19,Dhaka - Mirpur,Sales & Retail Ops,Senior,49069,Employee referral,2023-02-14,,,True,1,87.8,13.2,EMP0002,1223,40.2
+EMP0179,Eric Byrd,Male,19,Rajshahi,Sales & Retail Ops,Entry,18050,Employee referral,2026-04-13,,,True,2,95.7,13.0,EMP0074,69,2.3
+EMP0180,Jennifer Espinoza,Female,19,Dhaka - Gulshan,Sales & Retail Ops,Entry,24623,Walk-in,2025-03-17,,,True,2,86.6,12.7,EMP0128,461,15.1
+EMP0181,Michael Burton,Male,23,Sylhet,Sales & Retail Ops,Mid,36233,Online application,2023-02-24,,,True,3,94.6,10.2,EMP0062,1213,39.8
+EMP0182,Raymond Jefferson,Male,26,Sylhet,Sales & Retail Ops,Mid,33486,Campus hiring,2024-03-10,,,True,3,86.3,11.5,EMP0130,833,27.4
+EMP0183,Barbara Riggs,Female,26,Chattogram,Warehouse & Logistics,Mid,40899,Walk-in,2026-05-30,,,True,2,90.1,12.4,EMP0018,22,0.7
+EMP0184,Hannah Patterson,Female,19,Dhaka - Gulshan,Finance & Accounts,Mid,41602,Online application,2025-08-08,2025-11-02,Resignation - personal reasons,False,3,89.9,1.6,EMP0165,86,2.8
+EMP0185,Katie Peterson,Female,29,Dhaka - Mirpur,Finance & Accounts,Mid,32402,Employee referral,2025-03-29,2026-01-29,Contract end,False,3,85.5,6.3,EMP0118,306,10.1
+EMP0186,Samantha Garcia,Female,19,Dhaka - Mirpur,Sales & Retail Ops,Senior,60297,Online application,2023-12-29,,,True,3,82.0,22.7,EMP0140,905,29.7
+EMP0187,Mr. Ronald Zimmerman,Male,28,Chattogram,Sales & Retail Ops,Mid,33312,Walk-in,2026-01-11,,,True,2,88.8,7.2,EMP0070,161,5.3
+EMP0188,Morgan Sheppard,Female,26,Dhaka - Mirpur,Warehouse & Logistics,Senior,52222,Online application,2026-02-18,,,True,4,84.0,7.1,EMP0128,123,4.0
+EMP0189,Robert Medina,Male,29,Khulna,Warehouse & Logistics,Senior,59602,Online application,2022-10-12,,,True,4,87.9,10.4,EMP0047,1348,44.3
+EMP0190,Jessica Simon,Female,25,Chattogram,Warehouse & Logistics,Entry,25175,Employee referral,2023-12-15,,,True,3,96.3,10.2,EMP0177,919,30.2
+EMP0191,Sarah Rivas,Female,24,Chattogram,Warehouse & Logistics,Mid,35903,Online application,2025-03-07,,,True,3,92.9,14.8,EMP0015,471,15.5
+EMP0192,Sierra Sanchez,Female,33,Dhaka - Mirpur,HR & Admin,Entry,16317,Campus hiring,2025-05-30,2026-05-15,Resignation - personal reasons,False,3,100.0,0.0,EMP0113,350,11.5
+EMP0193,Leonard Gray,Male,28,Dhaka - Mirpur,Sales & Retail Ops,Senior,43312,Online application,2024-04-13,,,True,3,98.6,11.7,EMP0174,799,26.2
+EMP0194,Samuel White,Male,20,Chattogram,Warehouse & Logistics,Entry,17704,Online application,2023-02-12,2024-08-19,Resignation - better opportunity,False,2,87.4,6.4,EMP0030,554,18.2
+EMP0195,Rebecca Peterson,Female,26,Dhaka - Mirpur,Sales & Retail Ops,Mid,26556,Employee referral,2023-01-01,,,True,3,100.0,6.7,EMP0055,1267,41.6
+EMP0196,Michael Hill,Male,22,Head Office,Sales & Retail Ops,Senior,45998,Agency,2023-01-11,,,True,3,96.9,2.4,EMP0183,1257,41.3
+EMP0197,Tiffany Miller,Female,31,Chattogram,Sales & Retail Ops,Mid,38647,Online application,2024-01-05,2024-02-03,Resignation - personal reasons,False,2,100.0,4.9,EMP0077,29,1.0
+EMP0198,Katherine Chang,Female,26,Rajshahi,Finance & Accounts,Senior,56749,Online application,2025-10-20,2025-12-10,Resignation - better opportunity,False,2,90.9,8.4,EMP0036,51,1.7
+EMP0199,Matthew Henry,Male,23,Dhaka - Gulshan,Warehouse & Logistics,Entry,21084,Campus hiring,2024-08-16,2026-01-15,Relocation,False,3,95.9,1.6,EMP0017,517,17.0
+EMP0200,Brandon Walker,Male,33,Dhaka - Gulshan,Marketing,Mid,35077,Agency,2025-09-20,,,True,1,89.6,11.5,EMP0082,274,9.0
+EMP0201,Eric Perkins,Male,33,Sylhet,Warehouse & Logistics,Mid,31126,Employee referral,2026-01-29,,,True,2,92.3,5.1,EMP0047,143,4.7
+EMP0202,Kiara Coleman,Female,19,Khulna,Sales & Retail Ops,Mid,34707,Online application,2025-12-05,,,True,1,95.6,8.0,EMP0042,198,6.5
+EMP0203,Erin Warner,Female,29,Dhaka - Gulshan,Finance & Accounts,Entry,23027,Agency,2026-02-18,,,True,3,90.1,8.6,EMP0163,123,4.0
+EMP0204,David Martinez,Male,25,Head Office,Sales & Retail Ops,Mid,37645,Employee referral,2022-11-07,,,True,2,92.3,12.5,EMP0149,1322,43.4
+EMP0205,Bryan Herrera,Male,19,Dhaka - Mirpur,HR & Admin,Mid,38218,Online application,2025-12-18,,,True,2,100.0,6.3,EMP0008,185,6.1
+EMP0206,Cody Robinson,Male,20,Dhaka - Mirpur,Marketing,Senior,53425,Online application,2023-07-03,,,True,4,92.5,14.5,EMP0008,1084,35.6
+EMP0207,Misty Bray,Female,24,Chattogram,HR & Admin,Entry,17607,Employee referral,2024-09-07,,,True,2,100.0,0.1,EMP0077,652,21.4
+EMP0208,Douglas Garcia,Male,21,Chattogram,HR & Admin,Entry,22342,Online application,2024-08-12,2025-05-14,Contract end,False,3,100.0,6.0,EMP0082,275,9.0
+EMP0209,Darren White,Male,36,Khulna,Quality Control,Manager,127597,Online application,2024-03-25,,,True,4,95.2,3.7,EMP0120,818,26.9
+EMP0210,Joseph Hill,Male,29,Dhaka - Mirpur,Warehouse & Logistics,Entry,25208,Agency,2026-04-19,,,True,2,98.3,3.1,EMP0041,63,2.1
+EMP0211,Mr. Michael Martinez,Male,25,Khulna,Marketing,Mid,39375,Campus hiring,2023-03-28,,,True,3,92.0,7.2,EMP0079,1181,38.8
+EMP0212,John Salas,Male,33,Chattogram,Sales & Retail Ops,Entry,17389,Employee referral,2023-08-26,2023-10-31,Resignation - better opportunity,False,3,98.6,7.4,EMP0153,66,2.2
+EMP0213,John Alexander,Male,40,Rajshahi,HR & Admin,Mid,32731,Online application,2025-12-24,,,True,3,96.1,17.1,EMP0187,179,5.9
+EMP0214,Anthony Everett,Male,32,Dhaka - Gulshan,Warehouse & Logistics,Entry,22047,Online application,2024-12-26,,,True,3,84.7,5.6,EMP0099,542,17.8
+EMP0215,Samantha Morales,Female,32,Chattogram,Finance & Accounts,Entry,16089,Walk-in,2025-05-31,,,True,3,90.0,8.2,EMP0101,386,12.7
+EMP0216,Mark Brown,Male,28,Dhaka - Gulshan,Marketing,Mid,39616,Employee referral,2023-02-25,,,True,3,100.0,16.1,EMP0011,1212,39.8
+EMP0217,Justin Torres,Male,30,Dhaka - Mirpur,Sales & Retail Ops,Entry,16552,Employee referral,2024-08-01,,,True,3,98.4,12.5,EMP0084,689,22.6
+EMP0218,Bryan Duran DDS,Male,38,Head Office,Sales & Retail Ops,Entry,24442,Employee referral,2025-12-18,,,True,3,100.0,14.7,EMP0131,185,6.1
+EMP0219,Courtney Mills,Female,38,Chattogram,Finance & Accounts,Entry,16021,Employee referral,2024-03-22,,,True,2,100.0,10.8,EMP0150,821,27.0
+EMP0220,Jessica Dalton,Female,30,Dhaka - Gulshan,Quality Control,Senior,55258,Walk-in,2025-02-11,,,True,4,91.2,18.7,EMP0199,495,16.3
+EMP0221,Eric Oliver DDS,Male,21,Sylhet,Sales & Retail Ops,Entry,17266,Employee referral,2024-11-04,,,True,2,96.7,14.5,EMP0098,594,19.5
+EMP0222,Theresa Clark,Female,19,Dhaka - Mirpur,HR & Admin,Entry,16306,Walk-in,2022-12-14,,,True,4,90.1,22.4,EMP0039,1285,42.2
+EMP0223,Matthew Moore,Male,30,Chattogram,Sales & Retail Ops,Mid,37163,Agency,2024-08-22,,,True,2,91.5,3.3,EMP0181,668,21.9
+EMP0224,Angela Smith,Female,26,Dhaka - Mirpur,Sales & Retail Ops,Entry,23005,Online application,2024-11-06,2026-05-18,Relocation,False,3,95.3,8.1,EMP0088,558,18.3
+EMP0225,Linda Carter,Female,28,Chattogram,HR & Admin,Senior,45453,Walk-in,2025-11-01,,,True,4,100.0,8.2,EMP0064,232,7.6
+EMP0226,Michelle Warner,Female,35,Dhaka - Gulshan,Sales & Retail Ops,Manager,90015,Employee referral,2025-09-22,,,True,4,96.6,14.5,EMP0126,272,8.9
+EMP0227,Melissa Bradshaw,Female,31,Dhaka - Gulshan,Warehouse & Logistics,Manager,97426,Walk-in,2023-10-21,,,True,3,96.2,5.0,EMP0098,974,32.0
+EMP0228,Lori Guerrero,Female,31,Rajshahi,Warehouse & Logistics,Entry,18958,Walk-in,2023-03-02,,,True,2,100.0,3.8,EMP0021,1207,39.7
+EMP0229,Jeffery Stephens,Male,28,Dhaka - Gulshan,Warehouse & Logistics,Entry,25131,Online application,2023-06-17,,,True,1,88.8,9.4,EMP0179,1100,36.1
+EMP0230,Terry Serrano,Male,29,Dhaka - Gulshan,Sales & Retail Ops,Mid,30648,Agency,2022-07-22,2022-11-14,Resignation - better opportunity,False,2,97.6,0.0,EMP0026,115,3.8
+EMP0231,Carol Parker,Female,28,Chattogram,Finance & Accounts,Entry,24321,Online application,2022-02-11,,,True,2,87.8,3.5,EMP0105,1591,52.3
+EMP0232,Laura Roberts,Female,19,Sylhet,Quality Control,Mid,41522,Walk-in,2025-09-03,,,True,4,90.2,11.4,EMP0016,291,9.6
+EMP0233,Michael Lyons,Male,22,Rajshahi,Sales & Retail Ops,Mid,38588,Agency,2025-07-24,,,True,2,92.1,14.0,EMP0045,332,10.9
+EMP0234,Jonathan Snyder,Male,19,Chattogram,IT & Systems,Manager,78831,Employee referral,2025-12-10,,,True,3,91.4,14.9,EMP0192,193,6.3
+EMP0235,Andrew Reynolds,Male,30,Head Office,Marketing,Senior,57635,Walk-in,2025-01-03,,,True,3,88.5,4.8,EMP0073,534,17.5
+EMP0236,Danielle Davis,Female,25,Chattogram,HR & Admin,Mid,35499,Online application,2023-02-05,,,True,4,95.3,11.7,EMP0208,1232,40.5
+EMP0237,Dr. Kenneth Sampson,Male,27,Dhaka - Mirpur,Sales & Retail Ops,Mid,28203,Employee referral,2023-05-19,,,True,4,89.9,10.2,EMP0146,1129,37.1
+EMP0238,Miss Debra Williams PhD,Female,27,Sylhet,Sales & Retail Ops,Mid,36573,Online application,2024-05-17,2026-04-23,Resignation - better opportunity,False,2,92.2,0.0,EMP0025,706,23.2
+EMP0239,Matthew Moon,Male,28,Dhaka - Mirpur,Sales & Retail Ops,Entry,22980,Walk-in,2023-09-29,,,True,2,87.7,16.5,EMP0085,996,32.7
+EMP0240,Lauren Walters,Female,27,Dhaka - Gulshan,Finance & Accounts,Entry,18289,Walk-in,2025-06-16,2026-04-16,Resignation - better opportunity,False,3,92.2,8.3,EMP0104,304,10.0
+EMP0241,Anna Bailey,Female,29,Khulna,Marketing,Senior,45249,Employee referral,2025-06-13,,,True,1,88.6,12.0,EMP0095,373,12.3
+EMP0242,Michael Hodge,Male,28,Sylhet,Sales & Retail Ops,Entry,25556,Employee referral,2025-08-24,2025-10-13,Resignation - personal reasons,False,2,99.4,3.3,EMP0121,50,1.6
+EMP0243,Melissa Roberts,Female,26,Khulna,IT & Systems,Senior,57552,Employee referral,2025-05-31,,,True,4,98.8,11.2,EMP0135,386,12.7
+EMP0244,Robert Pierce,Male,28,Chattogram,Finance & Accounts,Entry,16986,Online application,2022-08-21,,,True,3,86.5,12.7,EMP0147,1400,46.0
+EMP0245,Ernest Morris,Male,29,Chattogram,Sales & Retail Ops,Senior,56287,Employee referral,2025-05-31,,,True,3,81.9,13.8,EMP0231,386,12.7
+EMP0246,Mr. Jose Travis,Male,26,Chattogram,IT & Systems,Mid,30033,Walk-in,2024-08-01,,,True,3,94.9,11.7,EMP0207,689,22.6
+EMP0247,Joshua Gutierrez,Male,30,Dhaka - Gulshan,Sales & Retail Ops,Entry,19230,Walk-in,2023-07-16,2024-10-20,Performance-related,False,3,82.9,0.3,EMP0139,462,15.2
+EMP0248,Heidi Avila,Female,30,Head Office,Marketing,Entry,19553,Online application,2022-05-26,,,True,3,100.0,9.0,EMP0197,1487,48.9
+EMP0249,Peter Harris,Male,32,Sylhet,Finance & Accounts,Manager,69367,Online application,2026-02-14,,,True,2,99.7,4.2,EMP0097,127,4.2
+EMP0250,Timothy Kim,Male,35,Dhaka - Gulshan,HR & Admin,Mid,38281,Online application,2025-04-26,2025-07-05,Resignation - personal reasons,False,2,87.1,0.0,EMP0136,70,2.3
+EMP0251,Barbara Dudley,Female,27,Dhaka - Mirpur,Marketing,Senior,64443,Online application,2026-05-27,,,True,3,95.7,5.8,EMP0109,25,0.8
+EMP0252,David Moore,Male,19,Chattogram,IT & Systems,Entry,25153,Agency,2023-10-25,,,True,2,93.4,14.5,EMP0029,970,31.9
+EMP0253,Kristen Davis,Female,19,Dhaka - Mirpur,HR & Admin,Mid,36693,Walk-in,2026-02-12,,,True,3,78.5,7.9,EMP0153,129,4.2
+EMP0254,Thomas Murray Jr.,Male,27,Dhaka - Mirpur,Merchandising,Mid,36737,Online application,2025-08-15,,,True,4,91.4,15.0,EMP0056,310,10.2
+EMP0255,Kathleen Moran,Female,31,Khulna,Finance & Accounts,Entry,20431,Agency,2023-08-14,,,True,3,93.6,9.7,EMP0148,1042,34.2
+EMP0256,Donald Davenport,Male,22,Sylhet,HR & Admin,Entry,16140,Employee referral,2023-02-23,2023-05-21,Resignation - better opportunity,False,2,82.8,3.6,EMP0016,87,2.9
+EMP0257,David Arnold MD,Male,27,Chattogram,Merchandising,Mid,29610,Online application,2025-05-29,,,True,3,88.0,10.7,EMP0177,388,12.7
+EMP0258,Jordan Suarez,Male,23,Head Office,HR & Admin,Senior,54289,Walk-in,2024-06-02,,,True,1,92.2,9.4,EMP0243,749,24.6
+EMP0259,Donald Tyler,Male,28,Dhaka - Gulshan,Sales & Retail Ops,Senior,57710,Walk-in,2024-08-10,,,True,3,89.5,6.4,EMP0214,680,22.3
+EMP0260,Timothy Romero,Male,22,Chattogram,Sales & Retail Ops,Entry,24105,Agency,2025-04-17,,,True,3,90.2,14.6,EMP0048,430,14.1
+EMP0261,Douglas Evans,Male,29,Chattogram,IT & Systems,Entry,25900,Walk-in,2025-02-21,,,True,3,100.0,11.5,EMP0112,485,15.9
+EMP0262,Yvonne Burns,Female,29,Chattogram,Quality Control,Entry,19097,Agency,2022-03-29,,,True,2,99.9,8.8,EMP0061,1545,50.8
+EMP0263,Kimberly Reed,Female,20,Khulna,Finance & Accounts,Senior,48295,Online application,2025-06-30,,,True,2,88.7,13.6,EMP0165,356,11.7
+EMP0264,Joshua Gibson,Male,32,Khulna,Warehouse & Logistics,Mid,33227,Online application,2023-10-01,,,True,3,89.6,11.7,EMP0051,994,32.7
+EMP0265,Colin Terry,Male,20,Khulna,Finance & Accounts,Mid,35654,Online application,2023-06-19,2023-09-29,Contract end,False,3,96.8,5.7,EMP0075,102,3.4
+EMP0266,Cynthia Rowe,Female,27,Dhaka - Mirpur,Merchandising,Mid,34853,Walk-in,2023-11-26,,,True,3,98.8,18.8,EMP0126,938,30.8
+EMP0267,Patrick Thornton,Male,31,Chattogram,HR & Admin,Mid,34841,Campus hiring,2025-11-23,,,True,2,97.0,3.8,EMP0252,210,6.9
+EMP0268,James Alvarado,Male,36,Chattogram,Finance & Accounts,Entry,25769,Walk-in,2024-12-05,,,True,2,96.4,16.5,EMP0031,563,18.5
+EMP0269,Veronica Simpson,Female,22,Chattogram,IT & Systems,Entry,25382,Walk-in,2022-07-16,2023-02-16,Performance-related,False,3,99.8,10.9,EMP0035,215,7.1
+EMP0270,Jonathan Lawrence,Male,23,Khulna,Sales & Retail Ops,Mid,31472,Employee referral,2025-03-11,,,True,2,93.2,6.9,EMP0248,467,15.3
+EMP0271,Shane Alexander,Male,24,Sylhet,Sales & Retail Ops,Mid,29713,Employee referral,2022-04-04,,,True,3,84.9,13.3,EMP0147,1539,50.6
+EMP0272,Joyce Bowen,Female,29,Dhaka - Mirpur,IT & Systems,Mid,27735,Walk-in,2026-03-08,,,True,4,86.0,5.1,EMP0077,105,3.4
+EMP0273,Matthew Moore,Male,30,Dhaka - Gulshan,Merchandising,Entry,21291,Walk-in,2025-10-21,,,True,4,91.4,16.9,EMP0236,243,8.0
+EMP0274,Tracy Morgan,Female,30,Sylhet,Marketing,Entry,16661,Employee referral,2025-12-24,,,True,3,96.2,6.3,EMP0017,179,5.9
+EMP0275,Matthew Christian,Male,25,Dhaka - Mirpur,Warehouse & Logistics,Mid,35208,Walk-in,2022-03-04,,,True,2,100.0,8.8,EMP0223,1570,51.6
+EMP0276,Shannon James,Female,34,Sylhet,Warehouse & Logistics,Manager,71083,Agency,2026-02-18,2026-04-01,Relocation,False,2,89.8,0.0,EMP0244,42,1.4
+EMP0277,Nathan Malone,Male,31,Dhaka - Gulshan,Marketing,Mid,35732,Employee referral,2024-11-30,,,True,3,97.6,5.4,EMP0162,568,18.7
+EMP0278,Amanda Jones,Female,31,Dhaka - Mirpur,Sales & Retail Ops,Entry,20037,Agency,2025-11-22,2026-05-24,Resignation - personal reasons,False,2,94.8,8.0,EMP0200,183,6.0
+EMP0279,Tammie Bright,Female,21,Sylhet,Merchandising,Entry,25715,Employee referral,2025-10-16,,,True,2,88.8,9.0,EMP0178,248,8.1
+EMP0280,Jeffrey Garcia,Male,22,Dhaka - Mirpur,Warehouse & Logistics,Senior,60880,Campus hiring,2025-09-19,,,True,1,100.0,5.5,EMP0168,275,9.0
+EMP0281,Shane Wallace,Male,29,Dhaka - Mirpur,Sales & Retail Ops,Manager,105174,Campus hiring,2024-03-02,,,True,2,100.0,17.6,EMP0195,841,27.6
+EMP0282,Stephanie Williams,Female,27,Dhaka - Mirpur,Merchandising,Senior,66819,Walk-in,2022-10-11,,,True,3,98.5,8.8,EMP0079,1349,44.3
+EMP0283,Edward Brooks,Male,30,Khulna,Sales & Retail Ops,Entry,23629,Online application,2023-12-18,2024-07-21,Resignation - better opportunity,False,3,90.0,3.1,EMP0096,216,7.1
+EMP0284,Joseph Knight,Male,24,Chattogram,Merchandising,Mid,32721,Online application,2022-10-29,,,True,2,93.5,12.2,EMP0167,1331,43.7
+EMP0285,Carolyn Miller,Female,23,Rajshahi,Sales & Retail Ops,Entry,21656,Online application,2025-07-26,,,True,5,98.5,3.6,EMP0125,330,10.8
+EMP0286,Manuel Allen,Male,28,Sylhet,Sales & Retail Ops,Entry,25325,Online application,2023-12-06,2024-01-29,Resignation - personal reasons,False,3,96.1,8.0,EMP0216,54,1.8
+EMP0287,Briana Murray,Female,27,Dhaka - Gulshan,IT & Systems,Entry,18964,Online application,2025-07-21,,,True,3,92.6,11.9,EMP0235,335,11.0
+EMP0288,David Smith,Male,30,Dhaka - Mirpur,Sales & Retail Ops,Manager,79916,Employee referral,2025-03-14,2025-07-19,Resignation - better opportunity,False,2,83.1,9.0,EMP0070,127,4.2
+EMP0289,Steven Byrd,Male,25,Dhaka - Gulshan,Merchandising,Mid,39828,Online application,2023-05-02,,,True,4,93.9,8.7,EMP0252,1146,37.6
+EMP0290,Jeremy Reed,Male,20,Head Office,IT & Systems,Entry,24648,Online application,2025-10-10,,,True,2,88.4,7.8,EMP0103,254,8.3
+EMP0291,Mark Coleman,Male,27,Sylhet,Merchandising,Mid,34591,Online application,2026-04-27,,,True,2,83.8,13.6,EMP0225,55,1.8
+EMP0292,Sarah Gonzalez,Female,32,Khulna,IT & Systems,Entry,25011,Employee referral,2025-10-21,2026-05-26,Resignation - better opportunity,False,3,98.3,6.7,EMP0130,217,7.1
+EMP0293,John Young,Male,24,Sylhet,Finance & Accounts,Senior,42767,Online application,2026-06-10,,,True,2,100.0,8.7,EMP0260,11,0.4
+EMP0294,Kenneth Haney,Male,29,Head Office,Quality Control,Entry,25956,Employee referral,2026-05-15,,,True,3,89.6,8.4,EMP0044,37,1.2
+EMP0295,William Barrett,Male,23,Dhaka - Mirpur,Sales & Retail Ops,Mid,32548,Online application,2025-03-04,,,True,3,84.1,10.7,EMP0205,474,15.6
+EMP0296,Keith Jennings,Male,29,Head Office,Warehouse & Logistics,Senior,64740,Walk-in,2022-11-19,,,True,4,92.3,8.3,EMP0286,1310,43.0
+EMP0297,Anthony Obrien,Male,19,Sylhet,Merchandising,Entry,20592,Employee referral,2025-09-24,,,True,4,85.8,9.8,EMP0177,270,8.9
+EMP0298,Sue Mitchell,Female,26,Head Office,Warehouse & Logistics,Entry,20719,Agency,2022-10-20,,,True,4,84.8,3.5,EMP0179,1340,44.0
+EMP0299,Lawrence Gomez,Male,29,Dhaka - Gulshan,Warehouse & Logistics,Entry,19493,Online application,2024-08-28,,,True,3,95.8,10.7,EMP0164,662,21.7
+EMP0300,Marc Byrd,Male,19,Dhaka - Mirpur,Sales & Retail Ops,Mid,41489,Walk-in,2024-02-11,,,True,2,92.5,13.7,EMP0125,861,28.3
+EMP0301,Matthew Massey,Male,19,Chattogram,Merchandising,Entry,24906,Employee referral,2024-08-08,,,True,3,83.9,8.9,EMP0096,682,22.4
+EMP0302,Steven Lucas,Male,27,Sylhet,Warehouse & Logistics,Entry,24080,Employee referral,2023-06-09,2023-12-12,Performance-related,False,2,95.8,1.3,EMP0106,186,6.1
+EMP0303,Jeremiah Riley,Male,24,Dhaka - Gulshan,Finance & Accounts,Senior,51223,Online application,2025-10-27,,,True,3,84.9,6.1,EMP0101,237,7.8
+EMP0304,Brandon Phillips,Male,23,Chattogram,Sales & Retail Ops,Senior,51866,Employee referral,2025-04-07,,,True,4,100.0,1.2,EMP0301,440,14.5
+EMP0305,Christopher Anderson,Male,22,Dhaka - Mirpur,Warehouse & Logistics,Mid,36229,Employee referral,2025-05-22,,,True,3,96.6,15.2,EMP0303,395,13.0
+EMP0306,Wesley Schmidt,Male,22,Dhaka - Mirpur,Sales & Retail Ops,Entry,19009,Employee referral,2023-05-13,,,True,2,98.8,9.8,EMP0215,1135,37.3
+EMP0307,Ronald Scott,Male,26,Sylhet,Merchandising,Entry,18196,Agency,2024-11-22,,,True,2,92.8,5.9,EMP0089,576,18.9
+EMP0308,John Drake,Male,31,Chattogram,Warehouse & Logistics,Entry,22303,Walk-in,2024-07-23,,,True,3,87.9,11.4,EMP0005,698,22.9
+EMP0309,George Wilson,Male,22,Chattogram,Sales & Retail Ops,Entry,25127,Online application,2025-04-26,,,True,3,98.2,1.5,EMP0228,421,13.8
+EMP0310,Mrs. Tracy Dalton,Female,24,Chattogram,Sales & Retail Ops,Entry,23128,Walk-in,2023-11-21,,,True,2,94.3,12.0,EMP0087,943,31.0
+EMP0311,William Coffey,Male,20,Khulna,Merchandising,Senior,42685,Online application,2024-10-16,,,True,4,90.9,12.2,EMP0279,613,20.1
+EMP0312,Jacob Gibbs,Male,31,Rajshahi,Warehouse & Logistics,Senior,53182,Online application,2025-07-19,,,True,2,100.0,9.4,EMP0053,337,11.1
+EMP0313,Kimberly Gibson,Female,19,Khulna,HR & Admin,Entry,23527,Walk-in,2022-05-28,,,True,3,92.1,8.5,EMP0045,1485,48.8
+EMP0314,Michael Richards,Male,29,Chattogram,Marketing,Senior,67237,Employee referral,2025-11-10,,,True,2,89.8,12.3,EMP0313,223,7.3
+EMP0315,Todd Rodriguez,Male,24,Sylhet,Sales & Retail Ops,Entry,20082,Walk-in,2023-06-26,2024-06-13,Resignation - better opportunity,False,2,100.0,2.0,EMP0276,353,11.6
+EMP0316,Alexander Henson,Male,30,Dhaka - Mirpur,Marketing,Entry,24706,Online application,2026-04-27,,,True,1,97.5,11.5,EMP0049,55,1.8
+EMP0317,Thomas Walker,Male,23,Dhaka - Mirpur,Finance & Accounts,Entry,25496,Employee referral,2023-10-27,,,True,3,91.5,9.9,EMP0068,968,31.8
+EMP0318,Samantha Blankenship,Female,29,Dhaka - Gulshan,Finance & Accounts,Senior,64656,Online application,2025-05-26,,,True,3,87.9,7.5,EMP0138,391,12.8
+EMP0319,Jennifer Taylor,Female,28,Sylhet,Warehouse & Logistics,Entry,24033,Online application,2025-09-19,,,True,2,97.3,15.8,EMP0189,275,9.0
+EMP0320,Elizabeth Vasquez,Female,21,Chattogram,Warehouse & Logistics,Mid,35114,Walk-in,2025-12-24,,,True,4,100.0,20.5,EMP0184,179,5.9
+EMP0321,Stacy Taylor,Female,28,Rajshahi,IT & Systems,Entry,18649,Online application,2025-11-27,,,True,3,97.6,14.5,EMP0146,206,6.8
+EMP0322,Michael Paul,Male,24,Dhaka - Gulshan,Merchandising,Mid,29983,Employee referral,2024-02-12,2025-01-09,Resignation - better opportunity,False,2,88.1,0.0,EMP0236,332,10.9
+EMP0323,Jason Newton,Male,19,Dhaka - Mirpur,Marketing,Entry,17013,Online application,2026-06-11,,,True,4,100.0,7.0,EMP0068,10,0.3
+EMP0324,Jennifer Garcia,Female,19,Rajshahi,Sales & Retail Ops,Senior,56537,Online application,2022-11-07,2024-01-12,Performance-related,False,4,89.7,14.2,EMP0085,431,14.2
+EMP0325,Jennifer Lynn,Female,31,Dhaka - Mirpur,HR & Admin,Mid,30431,Walk-in,2024-06-21,2025-02-13,Resignation - better opportunity,False,2,92.9,1.3,EMP0040,237,7.8
+EMP0326,Jacob Ramos,Male,31,Dhaka - Mirpur,Sales & Retail Ops,Mid,40226,Employee referral,2025-06-19,,,True,2,88.1,10.0,EMP0217,367,12.1
+EMP0327,Scott Garcia,Male,33,Khulna,Warehouse & Logistics,Entry,16663,Walk-in,2025-11-04,2026-05-12,Resignation - better opportunity,False,2,98.7,6.7,EMP0196,189,6.2
+EMP0328,Kimberly Levine,Female,22,Khulna,Finance & Accounts,Entry,24623,Online application,2023-02-22,2023-06-22,Performance-related,False,2,87.7,7.1,EMP0226,120,3.9
+EMP0329,Jennifer Lopez,Female,35,Dhaka - Gulshan,Sales & Retail Ops,Mid,27136,Online application,2025-03-08,,,True,3,86.9,17.4,EMP0052,470,15.4
+EMP0330,Ryan Gibson,Male,19,Dhaka - Mirpur,Sales & Retail Ops,Mid,27283,Employee referral,2024-06-22,,,True,3,98.1,13.5,EMP0044,729,23.9
+EMP0331,Martin Harper,Male,20,Dhaka - Gulshan,Merchandising,Mid,38889,Walk-in,2026-04-14,,,True,3,84.5,5.3,EMP0155,68,2.2
+EMP0332,Richard Sanchez,Male,30,Dhaka - Mirpur,Merchandising,Entry,21068,Employee referral,2025-04-17,,,True,4,100.0,12.9,EMP0123,430,14.1
+EMP0333,Justin Jones,Male,28,Chattogram,Sales & Retail Ops,Mid,34186,Campus hiring,2024-11-10,,,True,3,90.2,3.6,EMP0163,588,19.3
+EMP0334,Daniel Robinson,Male,24,Dhaka - Mirpur,Quality Control,Mid,38868,Employee referral,2025-06-03,,,True,3,91.8,15.6,EMP0038,383,12.6
+EMP0335,Gary Hernandez,Male,32,Dhaka - Mirpur,Sales & Retail Ops,Entry,22404,Employee referral,2022-08-17,,,True,4,93.6,10.6,EMP0322,1404,46.1
+EMP0336,Aaron Garrison,Male,21,Khulna,Finance & Accounts,Entry,16685,Online application,2025-04-09,,,True,3,97.6,14.9,EMP0043,438,14.4
+EMP0337,Beverly King,Female,26,Dhaka - Gulshan,Merchandising,Entry,17431,Online application,2024-11-21,,,True,3,87.7,6.7,EMP0333,577,19.0
+EMP0338,Mary Johnson,Female,21,Khulna,Sales & Retail Ops,Mid,29291,Walk-in,2025-12-23,2026-02-05,Resignation - personal reasons,False,1,90.1,6.9,EMP0233,44,1.4
+EMP0339,Rachel Young,Female,19,Sylhet,Sales & Retail Ops,Mid,31347,Walk-in,2023-04-29,2023-05-13,Resignation - better opportunity,False,3,97.4,2.9,EMP0255,14,0.5
+EMP0340,Carrie Williams,Female,21,Head Office,Merchandising,Senior,49927,Walk-in,2023-04-12,,,True,3,91.4,13.7,EMP0138,1166,38.3
+EMP0341,Joseph Reese,Male,19,Khulna,Sales & Retail Ops,Senior,53929,Online application,2024-06-21,2024-08-17,Other,False,2,97.8,0.0,EMP0322,57,1.9
+EMP0342,Richard Palmer,Male,28,Dhaka - Mirpur,Warehouse & Logistics,Entry,17938,Online application,2025-01-01,2026-04-29,Resignation - better opportunity,False,3,88.1,3.3,EMP0294,483,15.9
+EMP0343,Jonathan Dougherty,Male,21,Sylhet,Sales & Retail Ops,Mid,28336,Walk-in,2026-01-06,2026-02-04,Resignation - better opportunity,False,3,95.6,6.8,EMP0077,29,1.0
+EMP0344,Rachel Camacho,Female,19,Dhaka - Mirpur,Marketing,Entry,20624,Employee referral,2025-07-13,,,True,3,91.6,14.6,EMP0128,343,11.3
+EMP0345,Jimmy Maynard,Male,20,Chattogram,Finance & Accounts,Entry,17537,Online application,2024-03-29,,,True,3,100.0,9.0,EMP0092,814,26.7
+EMP0346,John Morales,Male,25,Dhaka - Gulshan,Merchandising,Entry,24535,Agency,2026-01-28,,,True,3,93.4,9.9,EMP0160,144,4.7
+EMP0347,John Browning,Male,19,Dhaka - Gulshan,Merchandising,Entry,17854,Online application,2024-12-28,,,True,3,93.8,14.3,EMP0238,540,17.7
+EMP0348,Angela Franklin,Female,27,Dhaka - Gulshan,Marketing,Manager,77283,Online application,2025-08-05,,,True,4,94.9,9.0,EMP0078,320,10.5
+EMP0349,Donald Schultz,Male,24,Dhaka - Mirpur,Warehouse & Logistics,Entry,17749,Agency,2025-12-14,,,True,2,93.5,12.6,EMP0001,189,6.2
+EMP0350,Frederick Vang,Male,26,Khulna,Warehouse & Logistics,Mid,29867,Campus hiring,2023-06-23,,,True,2,93.5,13.5,EMP0031,1094,35.9
+EMP0351,Jesse Jacobs,Male,24,Head Office,Sales & Retail Ops,Entry,25203,Agency,2023-08-09,2023-09-19,Relocation,False,4,79.8,0.0,EMP0235,41,1.3
+EMP0352,Michael Farrell,Male,19,Head Office,Sales & Retail Ops,Entry,22852,Walk-in,2025-11-21,,,True,3,95.2,15.5,EMP0223,212,7.0
+EMP0353,Patricia Le,Female,24,Sylhet,Sales & Retail Ops,Entry,23239,Online application,2026-03-27,,,True,4,93.4,13.4,EMP0168,86,2.8
+EMP0354,Jesse Perez,Male,32,Dhaka - Gulshan,Sales & Retail Ops,Entry,22971,Employee referral,2025-10-03,,,True,3,98.0,8.3,EMP0085,261,8.6
+EMP0355,Jesse Perry,Male,23,Chattogram,Sales & Retail Ops,Entry,17898,Online application,2025-09-21,,,True,2,94.8,13.0,EMP0062,273,9.0
+EMP0356,Jessica Ortega,Female,32,Dhaka - Mirpur,IT & Systems,Entry,19690,Walk-in,2025-02-19,,,True,2,95.0,7.8,EMP0076,487,16.0
+EMP0357,Christian Leblanc,Male,26,Dhaka - Mirpur,Sales & Retail Ops,Entry,23183,Walk-in,2025-05-27,,,True,3,95.2,7.5,EMP0016,390,12.8
+EMP0358,Ronald Davis,Male,20,Head Office,Quality Control,Mid,33329,Walk-in,2022-11-10,,,True,2,93.2,8.9,EMP0063,1319,43.3
+EMP0359,Parker Cain,Male,24,Dhaka - Mirpur,IT & Systems,Manager,111360,Online application,2025-11-25,,,True,2,95.9,9.1,EMP0331,208,6.8
+EMP0360,Kevin Hoffman,Male,21,Dhaka - Mirpur,Merchandising,Senior,42645,Walk-in,2026-06-17,,,True,4,100.0,9.5,EMP0066,4,0.1
+EMP0361,Bryan Gomez,Male,26,Dhaka - Mirpur,Quality Control,Senior,60888,Walk-in,2026-04-15,,,True,1,90.0,14.0,EMP0222,67,2.2
+EMP0362,Nicole Parrish,Female,24,Rajshahi,Warehouse & Logistics,Entry,25177,Walk-in,2023-04-23,2023-09-11,Resignation - better opportunity,False,2,94.5,2.2,EMP0077,141,4.6
+EMP0363,Warren Burke,Male,35,Dhaka - Mirpur,Merchandising,Entry,22450,Online application,2024-05-27,2024-09-16,Resignation - better opportunity,False,2,100.0,10.1,EMP0071,112,3.7
+EMP0364,Kenneth Lewis,Male,29,Chattogram,HR & Admin,Senior,48980,Online application,2026-06-14,,,True,3,90.1,11.2,EMP0196,7,0.2
+EMP0365,Danny Rodriguez,Male,24,Khulna,Warehouse & Logistics,Mid,30578,Online application,2026-03-11,,,True,3,94.7,9.0,EMP0093,102,3.4
+EMP0366,Holly Farmer,Female,24,Dhaka - Mirpur,Merchandising,Entry,22144,Employee referral,2023-11-03,,,True,3,100.0,14.1,EMP0184,961,31.6
+EMP0367,Robert Bruce,Male,23,Khulna,Marketing,Manager,90424,Walk-in,2025-05-01,,,True,2,100.0,7.9,EMP0029,416,13.7
+EMP0368,Dr. Lisa Day,Female,28,Khulna,Marketing,Mid,32115,Agency,2024-04-21,,,True,3,96.8,14.4,EMP0089,791,26.0
+EMP0369,Tanya Gallegos,Female,31,Dhaka - Mirpur,Merchandising,Senior,52449,Walk-in,2026-03-13,,,True,3,83.6,4.3,EMP0291,100,3.3
+EMP0370,Catherine Park,Female,27,Sylhet,Merchandising,Entry,16141,Online application,2026-02-03,,,True,4,94.5,9.7,EMP0252,138,4.5
+EMP0371,Gerald Smith,Male,24,Dhaka - Mirpur,Sales & Retail Ops,Mid,38109,Online application,2024-08-31,,,True,3,90.6,9.7,EMP0067,659,21.6
+EMP0372,Kylie Morales,Female,30,Dhaka - Gulshan,Sales & Retail Ops,Senior,56949,Walk-in,2022-08-15,,,True,2,96.1,9.0,EMP0073,1406,46.2
+EMP0373,Madeline Johnson,Female,31,Khulna,Quality Control,Senior,51641,Campus hiring,2024-03-30,,,True,3,93.2,10.6,EMP0052,813,26.7
+EMP0374,Cindy Barnes,Female,31,Dhaka - Gulshan,Warehouse & Logistics,Manager,116200,Employee referral,2024-07-03,,,True,2,97.0,8.5,EMP0163,718,23.6
+EMP0375,Jacqueline Griffith,Female,24,Dhaka - Mirpur,Marketing,Mid,30493,Walk-in,2025-10-12,,,True,2,92.3,9.1,EMP0090,252,8.3
+EMP0376,Keith Miller,Male,26,Dhaka - Gulshan,Finance & Accounts,Entry,16264,Employee referral,2022-01-20,,,True,2,97.8,3.5,EMP0291,1613,53.0
+EMP0377,Brooke Williamson,Female,31,Dhaka - Mirpur,Merchandising,Senior,60146,Online application,2023-07-22,,,True,2,89.1,10.6,EMP0073,1065,35.0
+EMP0378,Dillon Stanley,Male,29,Dhaka - Gulshan,Sales & Retail Ops,Entry,16987,Campus hiring,2025-04-04,,,True,3,98.4,10.9,EMP0344,443,14.6
+EMP0379,Jeremy Nelson,Male,30,Sylhet,Quality Control,Entry,19198,Walk-in,2023-09-10,,,True,5,90.0,13.2,EMP0056,1015,33.3
+EMP0380,Brian Jordan,Male,31,Khulna,Sales & Retail Ops,Entry,21154,Online application,2023-04-10,,,True,2,100.0,13.4,EMP0180,1168,38.4
+EMP0381,Meghan Tucker,Female,28,Chattogram,Sales & Retail Ops,Mid,39615,Employee referral,2025-04-23,,,True,4,94.6,12.6,EMP0038,424,13.9
+EMP0382,Andrew Foster,Male,24,Khulna,Sales & Retail Ops,Entry,16727,Online application,2022-12-03,,,True,3,92.5,13.5,EMP0083,1296,42.6
+EMP0383,Adam Turner,Male,31,Khulna,Merchandising,Senior,58910,Employee referral,2025-02-07,,,True,3,100.0,5.5,EMP0016,499,16.4
+EMP0384,Chad Scott,Male,34,Chattogram,HR & Admin,Mid,33986,Online application,2022-07-30,,,True,2,100.0,14.4,EMP0210,1422,46.7
+EMP0385,Adam Burgess,Male,25,Khulna,Finance & Accounts,Mid,36587,Walk-in,2023-11-04,2025-12-24,Resignation - personal reasons,False,2,100.0,3.3,EMP0252,781,25.7
+EMP0386,James Padilla,Male,28,Dhaka - Mirpur,Warehouse & Logistics,Entry,17185,Employee referral,2025-05-07,,,True,3,89.3,3.8,EMP0014,410,13.5
+EMP0387,Roy Drake,Male,24,Dhaka - Mirpur,HR & Admin,Manager,96369,Employee referral,2022-12-27,,,True,1,91.7,1.7,EMP0339,1272,41.8
+EMP0388,Scott Williams,Male,19,Dhaka - Gulshan,HR & Admin,Entry,24333,Walk-in,2024-04-11,2024-04-25,Resignation - personal reasons,False,3,93.5,0.0,EMP0135,14,0.5
+EMP0389,Tammy Atkins,Female,24,Dhaka - Gulshan,Sales & Retail Ops,Entry,17325,Walk-in,2025-05-14,2025-08-25,Resignation - personal reasons,False,3,78.7,0.0,EMP0388,103,3.4
+EMP0390,Laura Mckinney,Female,23,Sylhet,Merchandising,Senior,47482,Online application,2024-06-06,,,True,3,93.8,15.3,EMP0244,745,24.5
+EMP0391,Brian Smith,Male,26,Sylhet,Sales & Retail Ops,Entry,16182,Walk-in,2026-01-01,,,True,4,90.6,7.4,EMP0265,171,5.6
+EMP0392,Robert Montgomery,Male,35,Khulna,HR & Admin,Mid,38288,Walk-in,2025-09-05,,,True,2,95.1,13.1,EMP0109,289,9.5
+EMP0393,Tamara Davis,Female,19,Khulna,Sales & Retail Ops,Entry,25324,Campus hiring,2024-06-30,,,True,3,90.1,10.6,EMP0305,721,23.7
+EMP0394,David Chapman,Male,24,Dhaka - Gulshan,Quality Control,Senior,45052,Online application,2024-04-21,,,True,3,99.5,12.4,EMP0142,791,26.0
+EMP0395,Jennifer Collins,Female,22,Chattogram,Quality Control,Entry,24611,Employee referral,2025-01-29,2025-02-17,Resignation - better opportunity,False,2,100.0,2.0,EMP0291,19,0.6
+EMP0396,Felicia Jackson,Female,33,Sylhet,Finance & Accounts,Manager,112409,Walk-in,2024-12-27,,,True,2,100.0,5.7,EMP0275,541,17.8
+EMP0397,Ashley Hicks,Female,33,Rajshahi,Quality Control,Entry,16201,Online application,2025-01-08,,,True,1,94.2,13.0,EMP0207,529,17.4
+EMP0398,Gregory Luna,Male,34,Dhaka - Mirpur,Merchandising,Mid,29155,Online application,2026-02-12,,,True,3,100.0,10.5,EMP0382,129,4.2
+EMP0399,Robert Young,Male,30,Chattogram,Sales & Retail Ops,Entry,22439,Online application,2025-10-20,,,True,3,78.3,16.2,EMP0357,244,8.0
+EMP0400,Craig Morrison,Male,31,Khulna,Marketing,Entry,23980,Employee referral,2025-08-19,,,True,3,89.6,12.5,EMP0374,306,10.1
+EMP0401,Matthew Thompson,Male,31,Chattogram,HR & Admin,Entry,23064,Employee referral,2025-11-26,,,True,4,95.8,13.4,EMP0192,207,6.8
+EMP0402,Johnny Webster,Male,20,Rajshahi,Merchandising,Entry,22563,Walk-in,2024-10-11,,,True,3,99.0,7.3,EMP0292,618,20.3
+EMP0403,Joann Glass,Female,23,Dhaka - Mirpur,Sales & Retail Ops,Senior,45259,Online application,2023-09-10,,,True,2,100.0,4.5,EMP0361,1015,33.3
+EMP0404,Mark Weber,Male,19,Dhaka - Mirpur,Warehouse & Logistics,Mid,31160,Employee referral,2026-03-24,,,True,2,82.0,14.7,EMP0251,89,2.9
+EMP0405,Mark Hernandez,Male,30,Sylhet,Sales & Retail Ops,Senior,60019,Walk-in,2024-02-22,,,True,1,85.4,10.2,EMP0384,850,27.9
+EMP0406,Jeremy Turner,Male,21,Rajshahi,Sales & Retail Ops,Entry,16006,Employee referral,2026-01-01,,,True,2,93.3,9.4,EMP0114,171,5.6
+EMP0407,Anthony Romero,Male,34,Sylhet,HR & Admin,Entry,21546,Employee referral,2022-04-16,,,True,2,87.8,10.8,EMP0005,1527,50.2
+EMP0408,Jodi Brown,Female,19,Chattogram,Sales & Retail Ops,Entry,24767,Employee referral,2023-07-27,,,True,4,100.0,8.2,EMP0365,1060,34.8
+EMP0409,Billy Lin,Male,27,Head Office,HR & Admin,Entry,17900,Walk-in,2024-02-20,,,True,3,82.4,4.2,EMP0347,852,28.0
+EMP0410,Lucas Hunter,Male,25,Chattogram,HR & Admin,Mid,28309,Campus hiring,2026-06-20,,,True,4,96.4,8.8,EMP0288,1,0.0
+EMP0411,Julian Conner,Male,19,Sylhet,Merchandising,Entry,18172,Campus hiring,2022-08-26,,,True,2,77.3,5.1,EMP0142,1395,45.8
+EMP0412,Jerry Pacheco,Male,19,Dhaka - Gulshan,Finance & Accounts,Senior,42785,Employee referral,2023-03-09,,,True,2,96.2,1.8,EMP0411,1200,39.4
+EMP0413,Frank Alvarez,Male,41,Khulna,Warehouse & Logistics,Entry,19236,Online application,2022-05-05,2023-08-22,Relocation,False,1,89.9,1.3,EMP0208,474,15.6
+EMP0414,Antonio Garcia,Male,21,Chattogram,Sales & Retail Ops,Mid,41234,Employee referral,2023-05-26,2025-10-24,Resignation - personal reasons,False,2,85.4,0.5,EMP0402,882,29.0
+EMP0415,Greg Klein,Male,20,Chattogram,Marketing,Entry,16358,Employee referral,2023-04-18,,,True,3,94.9,8.6,EMP0151,1160,38.1
+EMP0416,Carrie Wright,Female,33,Dhaka - Mirpur,Sales & Retail Ops,Entry,22652,Walk-in,2025-09-12,,,True,4,85.6,12.0,EMP0172,282,9.3
+EMP0417,Jessica Mills,Female,26,Sylhet,Sales & Retail Ops,Entry,18567,Agency,2024-06-08,,,True,2,83.9,11.0,EMP0300,743,24.4
+EMP0418,Jacqueline Campbell,Female,19,Dhaka - Gulshan,Quality Control,Mid,27140,Campus hiring,2025-01-24,,,True,4,89.7,9.8,EMP0100,513,16.9
+EMP0419,George Harper,Male,28,Chattogram,Quality Control,Entry,25702,Agency,2022-07-31,2024-08-18,Resignation - better opportunity,False,2,96.7,2.5,EMP0210,749,24.6
+EMP0420,Matthew Jones,Male,27,Head Office,Quality Control,Manager,100272,Walk-in,2026-01-11,,,True,3,94.3,8.6,EMP0171,161,5.3
+EMP0421,Michael Mitchell,Male,19,Sylhet,Sales & Retail Ops,Mid,38982,Employee referral,2023-10-21,2024-02-25,Contract end,False,2,96.8,1.1,EMP0251,127,4.2
+EMP0422,Matthew Escobar,Male,34,Khulna,Finance & Accounts,Entry,18808,Online application,2024-06-22,,,True,2,92.4,13.8,EMP0003,729,23.9
+EMP0423,Gavin Aguilar,Male,29,Dhaka - Mirpur,Sales & Retail Ops,Entry,20699,Agency,2024-01-09,2024-04-11,Performance-related,False,3,96.3,4.4,EMP0321,93,3.1
+EMP0424,Gregory Ponce,Male,19,Khulna,Sales & Retail Ops,Senior,57688,Online application,2022-11-28,,,True,3,88.3,5.7,EMP0034,1301,42.7
+EMP0425,Jenna Larson,Female,30,Rajshahi,Sales & Retail Ops,Entry,21442,Online application,2025-02-10,,,True,1,96.9,10.8,EMP0069,496,16.3
+EMP0426,Eric Bennett,Male,39,Dhaka - Gulshan,Quality Control,Entry,18767,Agency,2026-04-22,,,True,3,99.5,12.0,EMP0117,60,2.0
+EMP0427,Robert Santiago,Male,28,Dhaka - Gulshan,Marketing,Entry,19735,Walk-in,2024-10-08,,,True,4,92.3,8.6,EMP0406,621,20.4
+EMP0428,Parker Jennings,Male,23,Dhaka - Mirpur,Quality Control,Entry,25764,Campus hiring,2022-07-16,,,True,3,97.8,13.0,EMP0335,1436,47.2
+EMP0429,Matthew Henderson,Male,27,Rajshahi,Sales & Retail Ops,Entry,23295,Walk-in,2023-01-13,,,True,3,89.3,11.3,EMP0106,1255,41.2
+EMP0430,Heidi White,Female,26,Khulna,HR & Admin,Entry,20897,Walk-in,2025-05-08,,,True,2,88.9,9.4,EMP0071,409,13.4
+EMP0431,Travis Tucker,Male,38,Chattogram,Quality Control,Mid,29426,Employee referral,2023-11-05,,,True,3,100.0,12.7,EMP0312,959,31.5
+EMP0432,Chad Jones,Male,27,Dhaka - Mirpur,Sales & Retail Ops,Mid,28092,Walk-in,2025-06-29,2026-04-16,Resignation - personal reasons,False,3,90.2,3.1,EMP0107,291,9.6
+EMP0433,Brian Wise,Male,26,Khulna,Warehouse & Logistics,Entry,23913,Walk-in,2022-10-28,,,True,1,95.7,7.0,EMP0253,1332,43.8
+EMP0434,Sophia Johnson,Female,21,Dhaka - Mirpur,Sales & Retail Ops,Mid,40519,Walk-in,2022-11-25,2024-10-13,Other,False,2,98.2,1.5,EMP0152,688,22.6
+EMP0435,Pamela Anderson,Female,33,Dhaka - Gulshan,Sales & Retail Ops,Senior,62349,Online application,2025-12-30,,,True,3,84.1,11.0,EMP0219,173,5.7
+EMP0436,Christopher Guerra,Male,19,Khulna,Sales & Retail Ops,Mid,28828,Employee referral,2025-12-29,,,True,4,87.9,11.3,EMP0184,174,5.7
+EMP0437,Rhonda Martin,Female,26,Rajshahi,Marketing,Entry,23190,Online application,2024-03-28,2025-05-27,Resignation - better opportunity,False,4,94.3,9.2,EMP0234,425,14.0
+EMP0438,Jennifer Rhodes,Female,31,Dhaka - Gulshan,Warehouse & Logistics,Senior,54145,Employee referral,2025-04-20,2025-11-15,Performance-related,False,2,95.9,6.0,EMP0031,209,6.9
+EMP0439,Jill Mitchell,Female,23,Head Office,Quality Control,Entry,22846,Online application,2024-09-07,,,True,4,96.3,13.2,EMP0313,652,21.4
+EMP0440,Joann Ferguson,Female,22,Dhaka - Gulshan,Warehouse & Logistics,Entry,23016,Campus hiring,2025-12-13,2026-01-02,Relocation,False,4,93.0,4.0,EMP0058,20,0.7
+EMP0441,Rhonda Harrison,Female,31,Rajshahi,Warehouse & Logistics,Entry,19167,Agency,2022-03-17,,,True,3,87.2,19.8,EMP0381,1557,51.1
+EMP0442,Holly Valentine,Female,31,Sylhet,Merchandising,Manager,103205,Online application,2024-02-04,,,True,2,89.1,8.8,EMP0049,868,28.5
+EMP0443,Julia Campbell MD,Female,28,Chattogram,Finance & Accounts,Mid,28624,Walk-in,2025-04-10,,,True,2,94.2,14.2,EMP0314,437,14.4
+EMP0444,Tracy Montoya,Female,31,Dhaka - Mirpur,HR & Admin,Entry,25010,Agency,2025-12-29,2026-02-06,Resignation - personal reasons,False,3,95.3,3.6,EMP0124,39,1.3
+EMP0445,Charles Wright,Male,19,Dhaka - Gulshan,Sales & Retail Ops,Mid,34662,Employee referral,2024-04-06,2024-04-20,Resignation - personal reasons,False,3,100.0,7.7,EMP0294,14,0.5
+EMP0446,Shane Spencer,Male,32,Chattogram,Quality Control,Entry,19796,Employee referral,2024-09-27,2025-02-22,Resignation - better opportunity,False,4,93.5,4.8,EMP0286,148,4.9
+EMP0447,Sarah Rosales,Female,39,Chattogram,IT & Systems,Senior,54820,Agency,2025-04-05,,,True,2,78.4,9.9,EMP0336,442,14.5
+EMP0448,Phillip Nelson,Male,19,Sylhet,Marketing,Entry,25215,Online application,2023-07-25,,,True,1,89.7,5.1,EMP0318,1062,34.9
+EMP0449,Charles Kim,Male,28,Sylhet,Finance & Accounts,Entry,21355,Employee referral,2022-11-16,2023-03-16,Resignation - better opportunity,False,2,100.0,1.5,EMP0325,120,3.9
+EMP0450,Courtney Hayes,Female,32,Head Office,Sales & Retail Ops,Mid,29237,Walk-in,2022-07-08,2023-08-05,Performance-related,False,3,97.0,0.0,EMP0370,393,12.9
+EMP0451,Alexander Brown,Male,30,Chattogram,Sales & Retail Ops,Entry,24353,Walk-in,2025-12-30,,,True,3,95.2,7.7,EMP0098,173,5.7
+EMP0452,Cynthia Vang,Female,20,Khulna,Sales & Retail Ops,Entry,22469,Employee referral,2025-12-12,,,True,4,87.6,12.6,EMP0231,191,6.3
+EMP0453,Alyssa Galvan,Female,32,Chattogram,Merchandising,Mid,34547,Employee referral,2022-02-06,,,True,3,94.4,15.9,EMP0222,1596,52.4
+EMP0454,Marie Moody,Female,19,Rajshahi,Warehouse & Logistics,Mid,33982,Online application,2023-05-02,,,True,2,91.7,0.0,EMP0066,1146,37.6
+EMP0455,Dustin Gallegos,Male,30,Dhaka - Mirpur,HR & Admin,Mid,28158,Online application,2026-02-02,,,True,2,98.5,6.2,EMP0355,139,4.6
+EMP0456,Brenda Thornton,Female,27,Khulna,Sales & Retail Ops,Manager,99128,Walk-in,2024-07-26,,,True,3,85.9,14.5,EMP0359,695,22.8
+EMP0457,Aaron Miller,Male,22,Rajshahi,Merchandising,Senior,61611,Employee referral,2023-12-27,,,True,2,88.4,10.5,EMP0112,907,29.8
+EMP0458,Ruben Dunn,Male,25,Dhaka - Mirpur,HR & Admin,Entry,18222,Campus hiring,2025-05-21,,,True,3,98.9,7.0,EMP0092,396,13.0
+EMP0459,Joseph Rodriguez,Male,30,Chattogram,HR & Admin,Entry,20025,Online application,2024-02-26,,,True,2,100.0,17.4,EMP0342,846,27.8
+EMP0460,Eric Williams,Male,27,Khulna,HR & Admin,Senior,64900,Online application,2026-01-29,,,True,3,94.0,11.0,EMP0055,143,4.7
+EMP0461,Riley Bryant,Male,24,Dhaka - Mirpur,Sales & Retail Ops,Mid,39767,Walk-in,2025-08-27,,,True,2,94.8,12.3,EMP0129,298,9.8
+EMP0462,Taylor Carlson,Male,36,Dhaka - Mirpur,Sales & Retail Ops,Senior,63729,Online application,2024-11-27,,,True,3,88.8,9.8,EMP0316,571,18.8
+EMP0463,Kaylee Allen,Female,38,Rajshahi,Finance & Accounts,Senior,55913,Walk-in,2024-12-25,,,True,3,98.0,17.9,EMP0409,543,17.8
+EMP0464,Jeffrey Mendez,Male,20,Khulna,HR & Admin,Entry,16277,Employee referral,2024-06-03,,,True,2,90.7,8.7,EMP0283,748,24.6
+EMP0465,Jennifer Beck,Female,24,Dhaka - Mirpur,Finance & Accounts,Entry,16025,Online application,2026-01-09,2026-03-25,Performance-related,False,3,98.4,4.2,EMP0364,75,2.5
+EMP0466,William Jones,Male,22,Sylhet,Finance & Accounts,Mid,27994,Campus hiring,2025-09-28,,,True,2,91.6,11.9,EMP0091,266,8.7
+EMP0467,Katie Mcneil,Female,23,Head Office,Sales & Retail Ops,Manager,77915,Walk-in,2023-01-04,,,True,3,99.7,14.5,EMP0136,1264,41.5
+EMP0468,James Harrison,Male,22,Dhaka - Mirpur,Merchandising,Entry,23763,Walk-in,2025-07-07,2026-04-24,Resignation - better opportunity,False,4,83.4,4.7,EMP0027,291,9.6
+EMP0469,William King,Male,27,Khulna,HR & Admin,Senior,48420,Online application,2025-10-15,,,True,3,85.2,10.8,EMP0363,249,8.2
+EMP0470,Richard Cooper,Male,26,Dhaka - Gulshan,Sales & Retail Ops,Entry,21085,Online application,2024-10-08,,,True,4,94.8,12.8,EMP0048,621,20.4
+EMP0471,Mark Ingram,Male,24,Dhaka - Gulshan,Quality Control,Mid,33888,Campus hiring,2023-11-24,,,True,3,83.4,11.8,EMP0244,940,30.9
+EMP0472,Gary Williams,Male,24,Head Office,IT & Systems,Manager,107954,Online application,2025-05-16,,,True,2,96.2,13.0,EMP0315,401,13.2
+EMP0473,Robin Thompson,Female,27,Rajshahi,Sales & Retail Ops,Entry,17296,Employee referral,2024-04-11,2025-09-25,Resignation - better opportunity,False,3,92.5,0.0,EMP0371,532,17.5
+EMP0474,John Dominguez,Male,25,Dhaka - Gulshan,Quality Control,Senior,54782,Online application,2025-10-31,,,True,1,96.4,11.7,EMP0460,233,7.7
+EMP0475,Robert Brown,Male,20,Sylhet,Warehouse & Logistics,Entry,18468,Employee referral,2026-05-19,,,True,3,98.3,8.2,EMP0321,33,1.1
+EMP0476,Judith Carter,Female,23,Dhaka - Mirpur,HR & Admin,Senior,52695,Walk-in,2024-06-14,,,True,3,89.7,4.2,EMP0360,737,24.2
+EMP0477,Christina Williams,Female,22,Rajshahi,Finance & Accounts,Entry,19947,Employee referral,2022-09-17,2025-08-10,Performance-related,False,3,88.5,0.0,EMP0020,1058,34.8
+EMP0478,Jose Hays,Male,19,Dhaka - Mirpur,Sales & Retail Ops,Senior,44176,Walk-in,2025-01-12,,,True,1,94.5,10.6,EMP0199,525,17.2
+EMP0479,David Mullins,Male,31,Chattogram,Warehouse & Logistics,Entry,19674,Walk-in,2023-01-02,,,True,2,82.0,16.4,EMP0033,1266,41.6
+EMP0480,Howard Norman,Male,23,Khulna,Merchandising,Mid,29008,Walk-in,2026-03-29,,,True,2,83.8,10.1,EMP0155,84,2.8
+EMP0481,Gary Martinez,Male,29,Sylhet,Sales & Retail Ops,Senior,62584,Walk-in,2025-11-23,,,True,2,90.8,4.2,EMP0113,210,6.9
+EMP0482,Steve Paul,Male,30,Dhaka - Mirpur,Warehouse & Logistics,Senior,44871,Walk-in,2026-05-06,,,True,5,88.2,13.8,EMP0469,46,1.5
+EMP0483,Jasmine Beltran,Female,31,Head Office,Quality Control,Mid,26699,Agency,2022-03-12,,,True,3,91.1,14.4,EMP0022,1562,51.3
+EMP0484,Kathleen Glass,Female,26,Dhaka - Mirpur,Merchandising,Mid,30557,Employee referral,2023-12-12,,,True,4,84.3,10.0,EMP0177,922,30.3
+EMP0485,Robert Acosta,Male,22,Dhaka - Mirpur,Quality Control,Senior,62700,Employee referral,2023-05-14,2024-01-31,Resignation - better opportunity,False,2,90.4,4.3,EMP0344,262,8.6
+EMP0486,Lindsey Short,Female,19,Khulna,Quality Control,Senior,62954,Online application,2026-06-14,,,True,3,95.6,11.6,EMP0149,7,0.2
+EMP0487,Frank Miller,Male,32,Sylhet,Sales & Retail Ops,Entry,19607,Online application,2026-04-26,2026-05-10,Resignation - better opportunity,False,2,75.5,9.0,EMP0146,14,0.5
+EMP0488,Eric Morrison,Male,24,Sylhet,Quality Control,Entry,22771,Online application,2025-03-09,,,True,3,95.1,8.1,EMP0290,469,15.4
+EMP0489,Michael Bell,Male,23,Sylhet,IT & Systems,Manager,117976,Employee referral,2023-12-26,,,True,3,100.0,6.6,EMP0329,908,29.8
+EMP0490,Sheila Gomez,Female,32,Chattogram,Quality Control,Entry,22534,Online application,2026-01-29,,,True,3,99.6,6.4,EMP0157,143,4.7
+EMP0491,Mr. William Gould Jr.,Male,30,Chattogram,Sales & Retail Ops,Mid,38707,Agency,2023-11-02,,,True,3,82.6,7.3,EMP0101,962,31.6
+EMP0492,Jack Owen,Male,23,Dhaka - Gulshan,Quality Control,Entry,18749,Online application,2022-04-11,2022-09-30,Resignation - personal reasons,False,3,89.3,2.5,EMP0208,172,5.7
+EMP0493,Troy Thomas,Male,23,Khulna,Sales & Retail Ops,Entry,23214,Online application,2026-02-17,,,True,4,100.0,13.9,EMP0077,124,4.1
+EMP0494,Rachael Johnson,Female,35,Dhaka - Gulshan,Sales & Retail Ops,Senior,53834,Online application,2023-11-19,2024-08-02,Resignation - better opportunity,False,2,82.5,4.5,EMP0258,257,8.4
+EMP0495,Paula Diaz,Female,30,Dhaka - Mirpur,Sales & Retail Ops,Manager,111733,Employee referral,2025-06-05,2026-06-09,Resignation - better opportunity,False,1,99.3,0.0,EMP0290,369,12.1
+EMP0496,Latoya Jacobs,Female,30,Head Office,HR & Admin,Manager,99845,Online application,2024-09-08,,,True,3,85.8,9.3,EMP0250,651,21.4
+EMP0497,Tiffany Watson,Female,25,Dhaka - Gulshan,Sales & Retail Ops,Entry,19854,Employee referral,2024-10-26,,,True,4,94.4,12.0,EMP0470,603,19.8
+EMP0498,Kenneth Moreno,Male,24,Chattogram,Sales & Retail Ops,Manager,100934,Online application,2025-06-30,,,True,3,90.8,8.2,EMP0428,356,11.7
+EMP0499,Matthew Wright,Male,32,Khulna,Merchandising,Mid,27363,Employee referral,2024-04-06,,,True,3,96.8,10.4,EMP0040,806,26.5
+EMP0500,Noah Porter,Male,25,Chattogram,Warehouse & Logistics,Senior,62544,Agency,2024-02-27,2025-11-04,Resignation - personal reasons,False,1,78.4,4.6,EMP0310,616,20.2
+EMP0501,Justin Green,Male,26,Dhaka - Mirpur,Quality Control,Entry,24560,Walk-in,2024-10-21,,,True,3,97.6,6.0,EMP0081,608,20.0
+EMP0502,Jeremy Davies,Male,39,Dhaka - Gulshan,Finance & Accounts,Entry,23032,Employee referral,2025-11-10,,,True,4,82.3,7.4,EMP0246,223,7.3
+EMP0503,Thomas Henry,Male,25,Chattogram,Merchandising,Mid,37599,Walk-in,2023-08-31,,,True,3,94.5,15.5,EMP0069,1025,33.7
+EMP0504,Samuel Hayes,Male,29,Sylhet,Sales & Retail Ops,Mid,28763,Walk-in,2023-09-25,,,True,2,96.5,14.0,EMP0307,1000,32.9
+EMP0505,Jill Miller,Female,32,Head Office,HR & Admin,Senior,61477,Campus hiring,2025-11-22,,,True,3,97.1,4.5,EMP0311,211,6.9
+EMP0506,Sarah Flores,Female,27,Head Office,Quality Control,Entry,23951,Employee referral,2025-02-16,,,True,3,89.0,8.0,EMP0094,490,16.1
+EMP0507,Ana Daniels,Female,19,Sylhet,Merchandising,Entry,24160,Employee referral,2026-03-23,,,True,3,86.8,4.6,EMP0194,90,3.0
+EMP0508,Sarah Joseph,Female,32,Chattogram,Sales & Retail Ops,Entry,19168,Online application,2024-10-07,2025-04-09,Resignation - better opportunity,False,3,84.4,6.4,EMP0244,184,6.0
+EMP0509,Mark Leon,Male,36,Rajshahi,Merchandising,Senior,58433,Walk-in,2025-08-30,,,True,2,90.4,9.3,EMP0462,295,9.7
+EMP0510,Barbara Harris,Female,27,Sylhet,IT & Systems,Senior,60990,Online application,2025-04-21,,,True,3,97.2,13.4,EMP0023,426,14.0
+EMP0511,Richard Johnson,Male,25,Khulna,Warehouse & Logistics,Manager,113270,Online application,2025-09-19,,,True,2,90.5,11.0,EMP0465,275,9.0
+EMP0512,Jacob Lara,Male,29,Khulna,HR & Admin,Entry,23196,Walk-in,2024-08-30,,,True,3,95.4,9.8,EMP0146,660,21.7
+EMP0513,Logan Miller,Male,29,Sylhet,Merchandising,Entry,16517,Walk-in,2025-08-19,,,True,3,85.0,11.0,EMP0008,306,10.1
+EMP0514,Zachary Higgins,Male,20,Dhaka - Gulshan,Sales & Retail Ops,Senior,56256,Online application,2022-12-07,,,True,1,88.0,7.3,EMP0268,1292,42.4
+EMP0515,Randy Morrow,Male,31,Rajshahi,Warehouse & Logistics,Entry,24399,Employee referral,2025-05-31,,,True,4,88.1,11.7,EMP0495,386,12.7
+EMP0516,Valerie Day,Female,26,Dhaka - Mirpur,Merchandising,Mid,41798,Employee referral,2025-01-16,,,True,3,94.2,6.7,EMP0142,521,17.1
+EMP0517,Michael Cooper,Male,27,Rajshahi,HR & Admin,Mid,38883,Walk-in,2025-06-24,2025-10-23,Resignation - better opportunity,False,2,100.0,7.8,EMP0347,121,4.0
+EMP0518,Richard Bowman,Male,33,Khulna,Merchandising,Mid,27306,Employee referral,2024-04-22,,,True,4,83.6,13.7,EMP0149,790,26.0
+EMP0519,Vincent Reynolds,Male,38,Chattogram,Merchandising,Entry,20195,Employee referral,2024-03-25,,,True,2,84.3,15.7,EMP0411,818,26.9
+EMP0520,Anthony Martinez,Male,25,Sylhet,Merchandising,Mid,32124,Agency,2026-04-19,,,True,3,83.8,12.1,EMP0450,63,2.1
+EMP0521,Christopher Morris,Male,31,Dhaka - Mirpur,Quality Control,Manager,124483,Employee referral,2023-06-04,,,True,4,88.0,12.8,EMP0238,1113,36.6
+EMP0522,Hannah Everett,Female,22,Sylhet,HR & Admin,Entry,21285,Walk-in,2026-05-24,,,True,3,94.9,10.8,EMP0410,28,0.9
+EMP0523,Ryan King,Male,24,Dhaka - Gulshan,Warehouse & Logistics,Mid,38654,Walk-in,2025-08-11,2026-05-01,Resignation - better opportunity,False,1,100.0,9.5,EMP0357,263,8.6
+EMP0524,Krista Martinez,Female,24,Dhaka - Gulshan,IT & Systems,Entry,20017,Online application,2024-07-29,2026-02-12,Resignation - better opportunity,False,3,94.8,3.1,EMP0519,563,18.5
+EMP0525,Kim Shaw,Female,26,Dhaka - Mirpur,Sales & Retail Ops,Entry,21166,Campus hiring,2025-10-31,,,True,3,91.5,12.8,EMP0257,233,7.7
+EMP0526,Teresa Moore,Female,30,Khulna,Marketing,Mid,31041,Campus hiring,2025-09-05,,,True,4,89.5,11.0,EMP0472,289,9.5
+EMP0527,Nathan Jacobs,Male,31,Rajshahi,Quality Control,Mid,35519,Employee referral,2024-04-13,2024-07-08,Performance-related,False,2,92.2,0.0,EMP0324,86,2.8
+EMP0528,Kristy Bryan,Female,29,Chattogram,Warehouse & Logistics,Mid,40839,Walk-in,2023-10-04,,,True,2,98.2,13.5,EMP0351,991,32.6
+EMP0529,Angel May,Male,32,Dhaka - Mirpur,Marketing,Mid,38013,Walk-in,2026-02-18,,,True,2,84.7,8.6,EMP0195,123,4.0
+EMP0530,Marilyn Wang,Female,19,Chattogram,Sales & Retail Ops,Mid,33786,Walk-in,2023-06-26,,,True,3,97.9,8.9,EMP0365,1091,35.8
+EMP0531,Margaret Jimenez,Female,32,Dhaka - Mirpur,Sales & Retail Ops,Senior,63128,Employee referral,2025-05-09,,,True,3,99.3,11.7,EMP0044,408,13.4
+EMP0532,Donna Frye,Female,37,Rajshahi,Warehouse & Logistics,Entry,16679,Online application,2026-02-02,,,True,2,89.7,13.4,EMP0188,139,4.6
+EMP0533,Robert Cohen,Male,29,Head Office,Quality Control,Entry,23352,Walk-in,2025-01-15,,,True,2,88.2,0.3,EMP0490,522,17.1
+EMP0534,Angel Brown,Female,23,Head Office,Sales & Retail Ops,Entry,24003,Online application,2025-09-28,2025-10-28,Resignation - personal reasons,False,2,97.4,3.4,EMP0324,30,1.0
+EMP0535,John Harris,Male,31,Khulna,Sales & Retail Ops,Entry,25116,Employee referral,2024-01-14,2024-03-03,Resignation - personal reasons,False,3,96.4,7.9,EMP0243,49,1.6
+EMP0536,Erik Higgins,Male,26,Dhaka - Gulshan,Marketing,Entry,16195,Online application,2024-06-14,,,True,3,83.3,11.4,EMP0374,737,24.2
+EMP0537,Scott Hester,Male,32,Rajshahi,Sales & Retail Ops,Entry,16060,Walk-in,2025-01-14,,,True,2,89.0,14.0,EMP0277,523,17.2
+EMP0538,Jacob Hoffman,Male,30,Khulna,Merchandising,Senior,54127,Employee referral,2025-10-28,,,True,4,84.5,6.9,EMP0010,236,7.8
+EMP0539,Julie Adams,Female,32,Dhaka - Mirpur,Warehouse & Logistics,Manager,79087,Employee referral,2024-10-25,,,True,1,84.6,10.1,EMP0308,604,19.8
+EMP0540,Brent Roberts,Male,27,Dhaka - Gulshan,Quality Control,Entry,16086,Walk-in,2023-04-05,,,True,3,90.7,16.4,EMP0099,1173,38.5
+EMP0541,Luis Wright,Male,24,Chattogram,Warehouse & Logistics,Entry,18773,Walk-in,2026-04-03,,,True,1,100.0,7.4,EMP0125,79,2.6
+EMP0542,Christopher Murphy,Male,27,Dhaka - Gulshan,HR & Admin,Mid,27647,Online application,2025-04-21,,,True,4,91.3,11.7,EMP0292,426,14.0
+EMP0543,Emily Hines,Female,33,Dhaka - Gulshan,HR & Admin,Mid,27673,Online application,2026-02-12,,,True,4,91.5,8.6,EMP0149,129,4.2
+EMP0544,Jose Jimenez,Male,19,Rajshahi,HR & Admin,Senior,65562,Online application,2025-03-03,,,True,2,99.1,18.4,EMP0082,475,15.6
+EMP0545,Alexander Landry,Male,34,Dhaka - Mirpur,Sales & Retail Ops,Entry,19360,Employee referral,2023-10-11,2023-11-28,Resignation - personal reasons,False,1,99.5,8.2,EMP0372,48,1.6
+EMP0546,Vincent Lewis,Male,29,Khulna,Merchandising,Mid,35137,Walk-in,2026-01-01,,,True,1,90.8,10.2,EMP0258,171,5.6
+EMP0547,Anthony Simpson,Male,31,Head Office,Finance & Accounts,Entry,21552,Walk-in,2022-11-29,,,True,3,95.1,9.8,EMP0056,1300,42.7
+EMP0548,Matthew Ruiz,Male,24,Dhaka - Mirpur,Warehouse & Logistics,Mid,32160,Walk-in,2023-10-02,,,True,2,92.2,10.7,EMP0400,993,32.6
+EMP0549,Sarah Jordan,Female,32,Dhaka - Gulshan,Sales & Retail Ops,Entry,16816,Agency,2023-01-29,2025-07-27,Performance-related,False,3,87.6,10.8,EMP0334,910,29.9
+EMP0550,Monica Gallagher,Female,30,Rajshahi,Warehouse & Logistics,Senior,52655,Walk-in,2024-12-07,,,True,3,98.5,14.3,EMP0182,561,18.4
+EMP0551,Jennifer Hudson,Female,29,Sylhet,Warehouse & Logistics,Mid,36039,Employee referral,2024-06-30,,,True,3,92.7,14.9,EMP0356,721,23.7
+EMP0552,Juan Jones,Male,25,Chattogram,Sales & Retail Ops,Entry,22773,Walk-in,2024-05-27,,,True,4,95.0,8.8,EMP0536,755,24.8
+EMP0553,Phillip Ramirez,Male,26,Khulna,Quality Control,Entry,20994,Agency,2022-02-27,,,True,3,87.6,7.3,EMP0489,1575,51.7
+EMP0554,Michael Wilson DVM,Male,25,Dhaka - Gulshan,Finance & Accounts,Senior,45719,Online application,2025-10-24,,,True,3,96.0,10.2,EMP0448,240,7.9
+EMP0555,Robert Morgan,Male,28,Chattogram,Sales & Retail Ops,Mid,34923,Walk-in,2024-04-06,,,True,3,97.7,0.0,EMP0246,806,26.5
+EMP0556,Nicole Gonzalez,Female,19,Chattogram,IT & Systems,Mid,34181,Employee referral,2023-10-18,,,True,3,89.2,5.2,EMP0276,977,32.1
+EMP0557,Jonathan Williams,Male,35,Chattogram,Quality Control,Entry,21951,Employee referral,2025-04-05,2025-04-24,Performance-related,False,3,84.3,0.0,EMP0193,19,0.6
+EMP0558,Gary Wells,Male,25,Dhaka - Gulshan,Sales & Retail Ops,Manager,111626,Walk-in,2026-05-20,,,True,3,94.9,11.2,EMP0449,32,1.1
+EMP0559,Larry Robertson,Male,30,Khulna,Sales & Retail Ops,Entry,16670,Online application,2024-02-09,,,True,3,88.6,10.3,EMP0381,863,28.4
+EMP0560,Lisa Martin,Female,34,Chattogram,IT & Systems,Entry,21255,Walk-in,2026-04-26,,,True,1,80.0,11.2,EMP0074,56,1.8
+EMP0561,Patrick Evans MD,Male,30,Chattogram,Sales & Retail Ops,Senior,53577,Walk-in,2024-04-11,,,True,2,100.0,5.6,EMP0255,801,26.3
+EMP0562,Kim Erickson,Female,28,Chattogram,Marketing,Entry,18942,Employee referral,2023-06-12,2024-06-27,Performance-related,False,3,94.2,5.2,EMP0214,381,12.5
+EMP0563,Robert Richardson,Male,27,Chattogram,HR & Admin,Entry,24995,Walk-in,2025-03-25,,,True,4,88.2,14.2,EMP0534,453,14.9
+EMP0564,William Silva,Male,21,Dhaka - Mirpur,Warehouse & Logistics,Entry,19516,Employee referral,2022-07-26,,,True,3,89.2,6.0,EMP0242,1426,46.8
+EMP0565,Nicholas Watts,Male,24,Sylhet,Warehouse & Logistics,Entry,23404,Employee referral,2023-01-05,2023-02-28,Resignation - better opportunity,False,2,93.1,7.6,EMP0487,54,1.8
+EMP0566,John Coffey,Male,22,Khulna,Sales & Retail Ops,Senior,62185,Employee referral,2024-10-01,,,True,4,96.1,14.1,EMP0062,628,20.6
+EMP0567,Paula Lane,Female,35,Dhaka - Mirpur,HR & Admin,Mid,41071,Walk-in,2023-01-18,,,True,1,100.0,12.1,EMP0356,1250,41.1
+EMP0568,Lauren Jackson,Female,20,Khulna,Warehouse & Logistics,Entry,22204,Walk-in,2024-03-06,,,True,2,96.6,6.2,EMP0497,837,27.5
+EMP0569,Manuel Randall,Male,19,Khulna,Merchandising,Mid,26922,Online application,2025-01-01,,,True,3,99.3,12.1,EMP0480,536,17.6
+EMP0570,Michael Johnson,Male,28,Dhaka - Gulshan,IT & Systems,Senior,52627,Walk-in,2022-09-08,,,True,3,97.0,12.8,EMP0270,1382,45.4
+EMP0571,Brian Smith,Male,21,Chattogram,Warehouse & Logistics,Senior,64867,Agency,2025-08-06,,,True,1,95.1,3.7,EMP0373,319,10.5
+EMP0572,Brittany Vaughn,Female,29,Khulna,Sales & Retail Ops,Mid,29191,Online application,2024-11-24,,,True,3,84.9,8.7,EMP0510,574,18.9
+EMP0573,Reginald Knapp,Male,37,Khulna,Sales & Retail Ops,Entry,24092,Walk-in,2024-01-09,,,True,2,94.4,8.5,EMP0045,894,29.4
+EMP0574,Noah Brown,Male,40,Rajshahi,Sales & Retail Ops,Senior,59589,Walk-in,2024-09-10,,,True,2,86.5,5.4,EMP0398,649,21.3
+EMP0575,Daniel Nguyen,Male,26,Sylhet,Merchandising,Mid,28850,Employee referral,2024-03-19,2024-08-23,Relocation,False,3,95.0,9.7,EMP0214,157,5.2
+EMP0576,Joseph Edwards,Male,30,Sylhet,Marketing,Senior,48644,Online application,2025-04-07,,,True,4,95.3,14.4,EMP0426,440,14.5
+EMP0577,Thomas Peterson,Male,32,Rajshahi,IT & Systems,Entry,24706,Employee referral,2024-11-11,,,True,3,100.0,17.0,EMP0080,587,19.3
+EMP0578,Patricia Le,Female,34,Head Office,Marketing,Entry,25788,Walk-in,2024-11-14,,,True,3,88.0,11.6,EMP0255,584,19.2
+EMP0579,Michael Bishop,Male,29,Sylhet,Marketing,Mid,33832,Employee referral,2025-08-22,,,True,2,95.2,1.6,EMP0470,303,10.0
+EMP0580,Danielle Grant,Female,19,Khulna,Warehouse & Logistics,Entry,17338,Online application,2024-12-09,,,True,2,99.8,9.9,EMP0547,559,18.4
+EMP0581,William Evans,Male,30,Head Office,Warehouse & Logistics,Entry,18217,Online application,2026-06-11,,,True,4,92.6,7.4,EMP0441,10,0.3
+EMP0582,Daniel Bush,Male,32,Rajshahi,Warehouse & Logistics,Entry,18961,Online application,2024-04-01,,,True,2,89.9,10.6,EMP0369,811,26.6
+EMP0583,Hannah Peck,Female,32,Head Office,Warehouse & Logistics,Entry,16570,Employee referral,2026-06-01,,,True,4,88.5,8.1,EMP0310,20,0.7
+EMP0584,Donald Martinez,Male,20,Dhaka - Mirpur,Marketing,Entry,22982,Campus hiring,2025-09-23,,,True,3,90.6,17.3,EMP0567,271,8.9
+EMP0585,James Baird,Male,30,Chattogram,Merchandising,Mid,33086,Walk-in,2024-08-06,,,True,3,94.0,8.4,EMP0256,684,22.5
+EMP0586,Troy Ballard,Male,26,Dhaka - Gulshan,IT & Systems,Entry,24566,Employee referral,2026-03-17,,,True,2,100.0,8.1,EMP0495,96,3.2
+EMP0587,Dwayne Klein,Male,21,Dhaka - Mirpur,IT & Systems,Mid,40501,Employee referral,2026-03-05,,,True,5,86.4,8.7,EMP0391,108,3.5
+EMP0588,Jeremy Scott,Male,29,Dhaka - Mirpur,Sales & Retail Ops,Senior,67380,Online application,2025-11-17,,,True,4,94.0,8.8,EMP0233,216,7.1
+EMP0589,Christina Ryan,Female,35,Khulna,Quality Control,Senior,64439,Walk-in,2025-03-29,,,True,3,94.2,13.0,EMP0327,449,14.8
+EMP0590,Michael Taylor,Male,28,Chattogram,Sales & Retail Ops,Mid,32582,Employee referral,2022-07-21,,,True,3,95.6,8.6,EMP0457,1431,47.0
+EMP0591,Kevin Sanchez,Male,21,Khulna,Merchandising,Entry,17262,Walk-in,2025-10-11,,,True,4,94.5,10.8,EMP0488,253,8.3
+EMP0592,Joseph Little,Male,30,Sylhet,Sales & Retail Ops,Entry,18259,Employee referral,2024-10-04,,,True,2,100.0,15.6,EMP0139,625,20.5
+EMP0593,Jason Love,Male,25,Chattogram,Sales & Retail Ops,Entry,25076,Campus hiring,2024-12-25,,,True,2,95.1,11.2,EMP0249,543,17.8
+EMP0594,Patricia Smith,Female,25,Dhaka - Mirpur,Finance & Accounts,Entry,25116,Employee referral,2022-10-29,,,True,2,91.9,3.8,EMP0357,1331,43.7
+EMP0595,Tanya Russell,Female,33,Dhaka - Mirpur,Warehouse & Logistics,Mid,41717,Online application,2023-04-16,,,True,1,90.5,8.1,EMP0453,1162,38.2
+EMP0596,Shawn Woods,Male,21,Sylhet,Warehouse & Logistics,Senior,58575,Walk-in,2025-06-06,,,True,2,90.7,7.7,EMP0088,380,12.5
+EMP0597,Tracey Morris,Female,19,Dhaka - Mirpur,Sales & Retail Ops,Manager,83408,Agency,2026-01-18,2026-02-07,Performance-related,False,2,94.2,5.1,EMP0114,20,0.7
+EMP0598,Susan Davis,Female,19,Dhaka - Gulshan,Warehouse & Logistics,Entry,17879,Online application,2023-07-05,,,True,3,100.0,11.1,EMP0562,1082,35.5
+EMP0599,Kimberly Sharp,Female,20,Chattogram,Finance & Accounts,Entry,17289,Employee referral,2022-04-10,,,True,3,84.4,13.1,EMP0045,1533,50.4
+EMP0600,Susan Thompson,Female,26,Dhaka - Gulshan,Sales & Retail Ops,Entry,21462,Online application,2023-10-17,,,True,2,98.5,7.8,EMP0069,978,32.1
+EMP0601,Casey Gillespie,Female,22,Chattogram,Sales & Retail Ops,Senior,52345,Walk-in,2026-01-13,,,True,2,89.8,5.6,EMP0396,159,5.2
+EMP0602,Mr. Jon Zuniga DVM,Male,33,Dhaka - Gulshan,Warehouse & Logistics,Manager,117681,Agency,2023-12-29,,,True,3,90.5,13.2,EMP0191,905,29.7
+EMP0603,Sherri Smith,Female,27,Dhaka - Mirpur,Marketing,Mid,32974,Agency,2022-06-20,,,True,2,93.1,8.6,EMP0502,1462,48.0
+EMP0604,Brian Bird,Male,26,Chattogram,Sales & Retail Ops,Entry,16844,Walk-in,2025-03-20,,,True,4,100.0,9.8,EMP0514,458,15.0
+EMP0605,William Daniels,Male,25,Dhaka - Gulshan,Sales & Retail Ops,Entry,16226,Campus hiring,2026-06-20,,,True,3,88.7,16.8,EMP0287,1,0.0
+EMP0606,Todd Rosales,Male,28,Dhaka - Gulshan,Warehouse & Logistics,Entry,18535,Online application,2025-08-02,,,True,2,90.9,20.7,EMP0233,323,10.6
+EMP0607,Corey Rodriguez,Male,29,Chattogram,Merchandising,Entry,17630,Online application,2025-02-22,2025-07-09,Performance-related,False,3,93.6,4.7,EMP0595,137,4.5
+EMP0608,Jimmy Scott,Male,19,Chattogram,IT & Systems,Senior,45262,Online application,2025-07-01,,,True,3,87.5,7.1,EMP0149,355,11.7
+EMP0609,Norman Gibbs,Male,23,Sylhet,Merchandising,Entry,22901,Employee referral,2024-11-16,,,True,3,86.4,10.9,EMP0150,582,19.1
+EMP0610,Peter Thompson,Male,25,Khulna,Finance & Accounts,Senior,67805,Online application,2024-05-26,,,True,3,96.1,16.5,EMP0281,756,24.8
+EMP0611,Steven Wilcox,Male,27,Dhaka - Mirpur,Sales & Retail Ops,Entry,23869,Employee referral,2026-06-04,,,True,1,100.0,12.5,EMP0237,17,0.6
+EMP0612,Brandon Caldwell,Male,29,Sylhet,Sales & Retail Ops,Entry,22531,Walk-in,2025-10-03,,,True,4,89.2,11.8,EMP0481,261,8.6
+EMP0613,Charles Morris,Male,19,Khulna,Warehouse & Logistics,Senior,54768,Walk-in,2023-02-11,,,True,3,87.0,6.9,EMP0016,1226,40.3
+EMP0614,Debbie Young,Female,21,Head Office,Marketing,Entry,23446,Walk-in,2023-06-19,2023-11-30,Relocation,False,2,94.8,3.3,EMP0450,164,5.4
+EMP0615,Troy Turner,Male,31,Rajshahi,Warehouse & Logistics,Entry,25712,Online application,2023-09-05,2024-07-03,Performance-related,False,3,100.0,6.4,EMP0390,302,9.9
+EMP0616,Adam Valdez,Male,33,Khulna,Warehouse & Logistics,Manager,120509,Employee referral,2024-11-20,,,True,2,89.4,5.6,EMP0040,578,19.0
+EMP0617,Antonio Wilson,Male,31,Chattogram,Warehouse & Logistics,Senior,55778,Online application,2026-06-16,,,True,3,96.0,24.0,EMP0041,5,0.2
+EMP0618,Jared Shaw,Male,19,Chattogram,Merchandising,Mid,40806,Online application,2023-11-20,,,True,3,88.3,12.8,EMP0293,944,31.0
+EMP0619,Michael Collins,Male,28,Chattogram,Warehouse & Logistics,Mid,29871,Walk-in,2024-10-25,,,True,2,88.1,7.8,EMP0463,604,19.8
+EMP0620,Thomas Phillips,Male,20,Dhaka - Mirpur,Merchandising,Entry,25536,Online application,2026-02-18,,,True,3,93.6,7.4,EMP0332,123,4.0
+EMP0621,Colleen Anderson,Female,22,Chattogram,Sales & Retail Ops,Mid,41198,Online application,2023-06-17,,,True,3,97.1,17.4,EMP0168,1100,36.1
+EMP0622,Paul Obrien,Male,23,Khulna,Sales & Retail Ops,Entry,25783,Online application,2024-03-13,,,True,3,100.0,10.6,EMP0524,830,27.3
+EMP0623,Joshua Ruiz,Male,19,Sylhet,Sales & Retail Ops,Mid,30322,Online application,2023-04-19,,,True,2,85.6,6.0,EMP0154,1159,38.1
+EMP0624,Matthew Robinson,Male,26,Dhaka - Mirpur,Sales & Retail Ops,Mid,38391,Employee referral,2023-12-17,,,True,3,100.0,13.9,EMP0296,917,30.1
+EMP0625,Paul Marks,Male,28,Sylhet,Sales & Retail Ops,Entry,17051,Walk-in,2025-03-17,,,True,3,87.2,6.1,EMP0511,461,15.1
+EMP0626,Jeremy Padilla,Male,37,Chattogram,Sales & Retail Ops,Senior,60489,Online application,2025-01-31,2025-06-28,Resignation - better opportunity,False,2,80.6,6.3,EMP0615,148,4.9
+EMP0627,Kristy Brown,Female,21,Dhaka - Mirpur,Quality Control,Entry,22226,Walk-in,2025-11-21,2026-02-07,Resignation - better opportunity,False,2,92.3,0.8,EMP0358,78,2.6
+EMP0628,Kathy Armstrong,Female,27,Dhaka - Mirpur,Quality Control,Mid,38497,Agency,2023-12-02,2024-02-15,Resignation - better opportunity,False,3,84.7,3.1,EMP0183,75,2.5
+EMP0629,Erin Meyer,Female,28,Dhaka - Mirpur,Sales & Retail Ops,Mid,38654,Online application,2025-01-09,,,True,2,93.5,0.0,EMP0593,528,17.3
+EMP0630,Daniel Aguilar,Male,28,Dhaka - Gulshan,Sales & Retail Ops,Mid,27273,Agency,2026-02-22,,,True,3,88.2,7.8,EMP0564,119,3.9
+EMP0631,Katrina Stokes,Female,30,Dhaka - Mirpur,Warehouse & Logistics,Entry,20247,Online application,2024-01-20,2024-08-29,Resignation - better opportunity,False,3,96.8,0.0,EMP0060,222,7.3
+EMP0632,Kayla Bryant,Female,24,Dhaka - Mirpur,Finance & Accounts,Mid,32305,Employee referral,2024-09-08,,,True,3,88.2,14.0,EMP0295,651,21.4
+EMP0633,Joel Roman,Male,20,Chattogram,Quality Control,Entry,25903,Agency,2025-03-18,,,True,3,90.0,8.0,EMP0509,460,15.1
+EMP0634,James Velasquez,Male,32,Chattogram,HR & Admin,Mid,33545,Employee referral,2025-02-27,,,True,3,90.5,11.6,EMP0002,479,15.7
+EMP0635,Laura Williams,Female,19,Dhaka - Mirpur,Warehouse & Logistics,Senior,44044,Employee referral,2023-06-27,,,True,3,81.5,9.7,EMP0047,1090,35.8
+EMP0636,Arthur Mcknight,Male,31,Dhaka - Gulshan,Merchandising,Mid,31043,Walk-in,2023-06-16,,,True,4,82.2,15.5,EMP0316,1101,36.2
+EMP0637,Benjamin Peck,Male,25,Dhaka - Gulshan,Merchandising,Mid,36309,Online application,2024-01-27,,,True,3,98.1,15.0,EMP0030,876,28.8
+EMP0638,Jennifer Mack,Female,37,Rajshahi,Sales & Retail Ops,Senior,67105,Online application,2024-09-02,,,True,3,100.0,1.8,EMP0140,657,21.6
+EMP0639,William Brewer,Male,29,Chattogram,HR & Admin,Senior,45783,Employee referral,2024-01-30,,,True,3,94.1,6.4,EMP0058,873,28.7
+EMP0640,Willie Reyes,Male,22,Rajshahi,Sales & Retail Ops,Mid,26310,Walk-in,2024-11-20,,,True,3,84.5,11.8,EMP0363,578,19.0
+EMP0641,Terry Bennett,Male,31,Dhaka - Mirpur,Sales & Retail Ops,Senior,66000,Online application,2024-04-01,,,True,4,90.8,11.9,EMP0621,811,26.6
+EMP0642,Mary Ryan,Female,19,Chattogram,Merchandising,Senior,52956,Online application,2025-07-02,2025-12-28,Resignation - better opportunity,False,3,92.6,5.8,EMP0509,179,5.9
+EMP0643,Gregory White,Male,19,Rajshahi,Warehouse & Logistics,Senior,55558,Walk-in,2024-11-05,,,True,3,93.2,10.8,EMP0039,593,19.5
+EMP0644,Joseph Luna,Male,28,Khulna,Quality Control,Entry,22837,Online application,2024-09-07,,,True,3,90.1,11.7,EMP0496,652,21.4
+EMP0645,Aaron Johnson,Male,21,Khulna,Merchandising,Senior,64288,Agency,2026-01-22,,,True,2,92.6,6.6,EMP0136,150,4.9
+EMP0646,Megan Stephens,Female,27,Dhaka - Mirpur,Sales & Retail Ops,Entry,16589,Online application,2022-12-27,2023-12-22,Contract end,False,3,91.2,2.9,EMP0090,360,11.8
+EMP0647,Samantha Wright,Female,22,Dhaka - Gulshan,Quality Control,Entry,19580,Walk-in,2025-08-21,,,True,1,95.5,9.3,EMP0215,304,10.0
+EMP0648,Donald Pineda,Male,37,Dhaka - Gulshan,Sales & Retail Ops,Entry,23984,Walk-in,2024-07-09,2024-09-21,Resignation - better opportunity,False,2,91.9,5.6,EMP0016,74,2.4
+EMP0649,Brian Pacheco,Male,27,Head Office,Merchandising,Entry,18618,Walk-in,2024-12-09,,,True,3,100.0,12.0,EMP0291,559,18.4
+EMP0650,Pamela Stephenson,Female,30,Sylhet,Sales & Retail Ops,Entry,23566,Walk-in,2024-11-27,2025-05-29,Relocation,False,3,89.5,4.9,EMP0052,183,6.0
+EMP0651,Daniel Garcia,Male,29,Dhaka - Mirpur,Sales & Retail Ops,Entry,17635,Employee referral,2025-02-10,,,True,3,92.3,8.8,EMP0457,496,16.3
+EMP0652,Linda Warner,Female,19,Sylhet,Sales & Retail Ops,Senior,64908,Online application,2025-05-19,,,True,2,91.3,6.9,EMP0477,398,13.1
+EMP0653,Natalie Morales,Female,39,Sylhet,Sales & Retail Ops,Senior,53404,Online application,2022-11-16,,,True,4,87.6,7.2,EMP0477,1313,43.1
+EMP0654,Claudia Shields,Female,24,Chattogram,Marketing,Entry,19907,Online application,2023-09-25,,,True,3,93.6,3.9,EMP0339,1000,32.9
+EMP0655,Jonathan Roberts,Male,19,Khulna,Quality Control,Mid,31313,Online application,2024-08-27,,,True,3,100.0,10.1,EMP0175,663,21.8
+EMP0656,Nicholas Flores,Male,31,Dhaka - Gulshan,Warehouse & Logistics,Mid,40536,Employee referral,2024-05-17,2024-09-18,Resignation - personal reasons,False,2,92.7,1.4,EMP0073,124,4.1
+EMP0657,Michael Flores,Male,20,Khulna,Merchandising,Entry,21244,Online application,2025-03-15,,,True,4,94.2,16.5,EMP0394,463,15.2
+EMP0658,Charles Keller,Male,24,Dhaka - Mirpur,Sales & Retail Ops,Mid,31316,Online application,2026-05-29,,,True,4,98.7,9.5,EMP0242,23,0.8
+EMP0659,Elizabeth Brown,Female,27,Dhaka - Mirpur,HR & Admin,Mid,28710,Walk-in,2025-12-11,,,True,4,91.6,14.7,EMP0334,192,6.3
+EMP0660,Sheryl Buck,Female,27,Chattogram,IT & Systems,Entry,19075,Walk-in,2022-09-10,,,True,4,83.6,8.3,EMP0389,1380,45.3
+EMP0661,Jeffery Simpson,Male,19,Dhaka - Gulshan,HR & Admin,Entry,22009,Employee referral,2023-02-14,,,True,3,82.1,13.0,EMP0001,1223,40.2
+EMP0662,Dr. Michael Floyd,Male,33,Khulna,HR & Admin,Mid,29962,Online application,2025-03-08,,,True,3,99.0,14.3,EMP0325,470,15.4
+EMP0663,Jennifer Hernandez,Female,35,Dhaka - Gulshan,IT & Systems,Mid,31054,Employee referral,2026-04-08,,,True,2,100.0,5.3,EMP0092,74,2.4
+EMP0664,Nicole Wells,Female,21,Sylhet,Merchandising,Mid,36693,Walk-in,2025-12-30,,,True,3,100.0,4.1,EMP0055,173,5.7
+EMP0665,Eric Zimmerman,Male,36,Dhaka - Mirpur,Merchandising,Manager,118124,Walk-in,2023-11-05,,,True,4,88.6,11.4,EMP0605,959,31.5
+EMP0666,Thomas Hart,Male,29,Chattogram,Sales & Retail Ops,Entry,25032,Employee referral,2024-12-03,,,True,2,88.7,5.9,EMP0193,565,18.6
+EMP0667,Mr. Cesar Sanchez,Male,28,Chattogram,Quality Control,Entry,18971,Agency,2023-11-15,2024-10-14,Resignation - better opportunity,False,2,100.0,2.9,EMP0664,334,11.0
+EMP0668,Matthew Nielsen,Male,22,Dhaka - Mirpur,Finance & Accounts,Mid,37757,Walk-in,2026-06-09,,,True,3,86.2,11.4,EMP0426,12,0.4
+EMP0669,Anna Hardy,Female,30,Rajshahi,Quality Control,Mid,36338,Online application,2025-03-18,,,True,2,92.3,11.1,EMP0461,460,15.1
+EMP0670,Derrick Nunez,Male,29,Chattogram,Sales & Retail Ops,Entry,19792,Employee referral,2024-09-29,,,True,2,92.2,13.0,EMP0276,630,20.7
+EMP0671,Shelly Lopez,Female,24,Chattogram,Merchandising,Entry,22197,Employee referral,2025-01-03,2025-03-18,Resignation - personal reasons,False,2,88.9,8.2,EMP0082,74,2.4
+EMP0672,Misty Hansen,Female,19,Dhaka - Mirpur,Finance & Accounts,Manager,103113,Online application,2025-10-02,2026-02-14,Relocation,False,4,93.2,5.8,EMP0091,135,4.4
+EMP0673,Sheila Cook,Female,35,Dhaka - Gulshan,HR & Admin,Mid,28330,Online application,2025-06-05,,,True,3,93.2,5.6,EMP0628,381,12.5
+EMP0674,Adrian Giles,Male,26,Dhaka - Mirpur,Warehouse & Logistics,Senior,63054,Online application,2024-10-19,,,True,2,95.6,11.9,EMP0432,610,20.0
+EMP0675,Mr. Zachary Mendoza,Male,30,Dhaka - Gulshan,Marketing,Entry,16464,Employee referral,2025-06-19,,,True,2,81.1,7.6,EMP0578,367,12.1
+EMP0676,Larry Harris,Male,21,Dhaka - Gulshan,HR & Admin,Mid,35117,Walk-in,2025-04-30,,,True,2,98.0,11.5,EMP0028,417,13.7
+EMP0677,Kristen Rowe,Female,19,Dhaka - Gulshan,Sales & Retail Ops,Mid,27404,Walk-in,2023-10-28,2023-12-12,Contract end,False,2,97.0,0.0,EMP0015,45,1.5
+EMP0678,Kimberly Howard,Female,23,Khulna,Merchandising,Senior,63097,Online application,2025-05-04,2026-04-13,Contract end,False,2,93.6,7.5,EMP0242,344,11.3
+EMP0679,Jose Crawford,Male,20,Chattogram,IT & Systems,Senior,46926,Walk-in,2022-10-17,,,True,1,90.7,10.6,EMP0158,1343,44.1
+EMP0680,William Harrison,Male,19,Rajshahi,Finance & Accounts,Entry,19939,Employee referral,2025-05-05,,,True,3,89.3,13.0,EMP0592,412,13.5
+EMP0681,Suzanne Wood,Female,21,Khulna,Warehouse & Logistics,Mid,40179,Walk-in,2022-12-28,2023-10-14,Resignation - better opportunity,False,2,84.2,2.0,EMP0546,290,9.5
+EMP0682,Justin Walker,Male,32,Dhaka - Gulshan,HR & Admin,Entry,24339,Online application,2024-11-13,,,True,3,86.4,8.7,EMP0460,585,19.2
+EMP0683,Debbie Donovan,Female,22,Chattogram,Sales & Retail Ops,Mid,32781,Online application,2022-11-16,,,True,3,92.7,8.1,EMP0443,1313,43.1
+EMP0684,Jason Hernandez,Male,31,Sylhet,HR & Admin,Entry,20675,Walk-in,2025-10-30,,,True,4,90.5,12.8,EMP0473,234,7.7
+EMP0685,James Whitaker,Male,24,Khulna,Finance & Accounts,Mid,39492,Online application,2023-06-04,,,True,4,100.0,6.2,EMP0185,1113,36.6
+EMP0686,Matthew Cohen,Male,33,Dhaka - Gulshan,Sales & Retail Ops,Entry,24151,Online application,2024-05-26,,,True,3,98.6,12.2,EMP0360,756,24.8
+EMP0687,Roberto Levy,Male,28,Dhaka - Mirpur,Sales & Retail Ops,Entry,16886,Agency,2022-11-04,,,True,2,83.0,10.6,EMP0223,1325,43.5
+EMP0688,John Jackson,Male,21,Head Office,HR & Admin,Mid,37984,Walk-in,2026-01-04,,,True,2,88.4,13.3,EMP0664,168,5.5
+EMP0689,Caroline Cortez,Female,24,Sylhet,Marketing,Senior,58131,Online application,2023-09-17,,,True,3,98.4,16.8,EMP0655,1008,33.1
+EMP0690,Sydney Weaver,Female,30,Chattogram,Marketing,Mid,29009,Employee referral,2025-05-14,,,True,3,100.0,4.9,EMP0076,403,13.2
+EMP0691,Amy Johnson,Female,28,Dhaka - Gulshan,Sales & Retail Ops,Entry,25589,Employee referral,2023-09-25,2024-03-12,Resignation - better opportunity,False,2,87.9,9.0,EMP0206,169,5.6
+EMP0692,Tony Barnett,Male,21,Sylhet,Sales & Retail Ops,Mid,41681,Walk-in,2025-09-19,,,True,3,93.5,8.8,EMP0453,275,9.0
+EMP0693,Jason Kirby,Male,26,Khulna,Sales & Retail Ops,Entry,19809,Online application,2023-09-12,,,True,4,97.1,14.4,EMP0153,1013,33.3
+EMP0694,Michael Smith,Male,28,Sylhet,Sales & Retail Ops,Entry,17409,Online application,2023-03-12,,,True,3,100.0,17.8,EMP0004,1197,39.3
+EMP0695,Jake Williamson,Male,30,Chattogram,Marketing,Mid,26279,Employee referral,2025-12-20,,,True,1,95.3,11.2,EMP0554,183,6.0
+EMP0696,Lisa Webb,Female,29,Dhaka - Gulshan,Warehouse & Logistics,Mid,39461,Online application,2023-01-08,,,True,2,94.4,2.6,EMP0342,1260,41.4
+EMP0697,Adriana Arnold,Female,31,Khulna,Warehouse & Logistics,Mid,37087,Online application,2022-11-01,,,True,2,100.0,17.4,EMP0083,1328,43.6
+EMP0698,Joseph Hill,Male,30,Rajshahi,Finance & Accounts,Entry,16662,Campus hiring,2024-12-16,,,True,2,100.0,16.9,EMP0307,552,18.1
+EMP0699,Alan Li DDS,Male,27,Khulna,Quality Control,Mid,28014,Employee referral,2022-10-18,,,True,3,92.5,0.0,EMP0144,1342,44.1
+EMP0700,Theodore Rodriguez,Male,25,Dhaka - Mirpur,Sales & Retail Ops,Manager,108708,Employee referral,2024-04-22,,,True,2,98.3,12.9,EMP0512,790,26.0
+EMP0701,Brittany Lee,Female,30,Chattogram,IT & Systems,Entry,20942,Walk-in,2022-06-12,,,True,1,100.0,10.9,EMP0044,1470,48.3
+EMP0702,Robert Adams,Male,34,Chattogram,Sales & Retail Ops,Mid,33774,Agency,2026-04-12,2026-05-07,Performance-related,False,1,84.7,1.6,EMP0239,25,0.8
+EMP0703,Jacqueline Sullivan,Female,22,Head Office,Sales & Retail Ops,Entry,23754,Agency,2024-08-21,2025-05-19,Performance-related,False,3,81.2,2.4,EMP0134,271,8.9
+EMP0704,Wanda Perez,Female,36,Dhaka - Mirpur,HR & Admin,Senior,66704,Employee referral,2022-11-16,,,True,2,86.1,14.5,EMP0066,1313,43.1
+EMP0705,Sarah Valdez,Female,34,Khulna,Sales & Retail Ops,Mid,28994,Employee referral,2023-07-21,,,True,2,88.3,11.4,EMP0695,1066,35.0
+EMP0706,Peter Davis,Male,32,Chattogram,Sales & Retail Ops,Mid,40547,Campus hiring,2024-01-08,,,True,3,93.0,14.3,EMP0047,895,29.4
+EMP0707,Juan Brown,Male,27,Sylhet,Warehouse & Logistics,Entry,23269,Employee referral,2024-05-31,,,True,3,99.7,12.9,EMP0450,751,24.7
+EMP0708,Carolyn Porter,Female,38,Dhaka - Gulshan,Merchandising,Entry,17499,Online application,2025-03-29,2025-05-02,Contract end,False,2,90.8,5.7,EMP0083,34,1.1
+EMP0709,Rachel Knight,Female,19,Dhaka - Mirpur,Sales & Retail Ops,Entry,23977,Online application,2026-02-09,,,True,3,86.7,6.2,EMP0488,132,4.3
+EMP0710,Brandon Rice,Male,28,Khulna,Sales & Retail Ops,Mid,30232,Agency,2024-05-27,,,True,2,83.7,11.0,EMP0039,755,24.8
+EMP0711,Daniel Parrish,Male,29,Sylhet,Finance & Accounts,Mid,36905,Online application,2025-11-29,,,True,3,82.5,10.7,EMP0572,204,6.7
+EMP0712,John Williams,Male,22,Dhaka - Gulshan,Sales & Retail Ops,Mid,28949,Employee referral,2024-03-12,,,True,2,98.0,11.0,EMP0225,831,27.3
+EMP0713,Timothy Lam,Male,23,Chattogram,HR & Admin,Entry,17466,Walk-in,2022-12-21,,,True,4,93.3,12.8,EMP0486,1278,42.0
+EMP0714,Andrew Mcfarland,Male,24,Chattogram,Sales & Retail Ops,Senior,62276,Walk-in,2024-03-15,,,True,3,97.6,14.0,EMP0632,828,27.2
+EMP0715,Tonya Matthews,Female,28,Khulna,Finance & Accounts,Entry,25290,Walk-in,2026-03-26,,,True,3,87.1,4.2,EMP0497,87,2.9
+EMP0716,Micheal Sanders,Male,23,Chattogram,Sales & Retail Ops,Entry,23382,Online application,2025-01-19,,,True,4,82.0,13.8,EMP0334,518,17.0
+EMP0717,Christopher Allen,Male,26,Dhaka - Gulshan,Sales & Retail Ops,Entry,16920,Walk-in,2024-05-28,,,True,2,85.5,10.1,EMP0076,754,24.8
+EMP0718,James Mosley,Male,21,Chattogram,Warehouse & Logistics,Senior,67373,Online application,2026-03-29,,,True,3,92.2,14.2,EMP0140,84,2.8
+EMP0719,Perry Taylor,Male,22,Chattogram,Sales & Retail Ops,Entry,16946,Walk-in,2024-01-31,,,True,4,87.2,1.0,EMP0288,872,28.6
+EMP0720,Nathaniel Mason DVM,Male,27,Dhaka - Mirpur,Quality Control,Mid,32360,Agency,2024-02-12,,,True,3,100.0,7.8,EMP0654,860,28.3
+EMP0721,Jeffrey Roberson,Male,22,Head Office,Quality Control,Mid,38668,Online application,2023-08-06,,,True,2,91.8,10.3,EMP0222,1050,34.5
+EMP0722,Patricia Friedman,Female,38,Sylhet,IT & Systems,Entry,16643,Walk-in,2025-08-10,,,True,4,94.3,14.1,EMP0594,315,10.3
+EMP0723,Patricia Johnson,Female,22,Dhaka - Gulshan,Marketing,Manager,96412,Online application,2026-02-22,,,True,2,100.0,11.3,EMP0482,119,3.9
+EMP0724,Willie Henry,Male,22,Khulna,Merchandising,Entry,21275,Employee referral,2025-11-08,,,True,2,91.7,5.4,EMP0508,225,7.4
+EMP0725,Teresa Reynolds,Female,33,Dhaka - Gulshan,Merchandising,Entry,19622,Walk-in,2026-04-24,,,True,3,92.7,6.7,EMP0664,58,1.9
+EMP0726,Matthew Miller,Male,25,Head Office,Sales & Retail Ops,Mid,28155,Online application,2024-08-04,,,True,3,87.2,7.6,EMP0466,686,22.5
+EMP0727,Robert Marquez,Male,29,Chattogram,Sales & Retail Ops,Mid,32396,Employee referral,2026-01-22,,,True,1,97.1,10.5,EMP0002,150,4.9
+EMP0728,Christian Dawson,Male,29,Rajshahi,Sales & Retail Ops,Senior,49928,Online application,2022-05-29,,,True,4,98.0,8.6,EMP0628,1484,48.8
+EMP0729,Patrick Stewart,Male,23,Chattogram,IT & Systems,Senior,67419,Employee referral,2026-02-02,,,True,3,92.0,5.7,EMP0691,139,4.6
+EMP0730,Aaron Parker,Male,26,Dhaka - Gulshan,Sales & Retail Ops,Entry,19956,Online application,2022-06-24,,,True,2,95.2,10.9,EMP0722,1458,47.9
+EMP0731,Debra Anderson,Female,23,Dhaka - Mirpur,Finance & Accounts,Entry,20675,Walk-in,2023-08-22,,,True,2,88.4,10.0,EMP0595,1034,34.0
+EMP0732,Joann Peters,Female,29,Rajshahi,Finance & Accounts,Mid,27473,Agency,2024-01-06,,,True,4,95.8,15.4,EMP0434,897,29.5
+EMP0733,Alexander Gomez,Male,30,Dhaka - Gulshan,Sales & Retail Ops,Entry,25782,Walk-in,2024-11-07,,,True,2,91.2,5.3,EMP0695,591,19.4
+EMP0734,Kyle Nguyen,Male,33,Rajshahi,Quality Control,Mid,38466,Employee referral,2025-05-22,,,True,4,100.0,12.2,EMP0068,395,13.0
+EMP0735,Edgar Hughes,Male,27,Dhaka - Mirpur,Quality Control,Entry,24671,Campus hiring,2023-05-05,2023-05-19,Resignation - better opportunity,False,4,100.0,0.0,EMP0115,14,0.5
+EMP0736,Steven Stein,Male,24,Khulna,Warehouse & Logistics,Senior,47506,Walk-in,2025-03-23,,,True,2,89.8,9.5,EMP0555,455,14.9
+EMP0737,Laura Jackson MD,Female,25,Head Office,Warehouse & Logistics,Entry,18670,Walk-in,2022-04-21,2022-05-05,Contract end,False,3,92.3,0.0,EMP0533,14,0.5
+EMP0738,Elizabeth Snyder,Female,32,Sylhet,Warehouse & Logistics,Entry,16556,Employee referral,2024-01-16,,,True,5,89.9,8.7,EMP0562,887,29.1
+EMP0739,Jessica Fisher,Female,27,Chattogram,Sales & Retail Ops,Entry,22470,Walk-in,2023-04-21,,,True,2,90.5,10.5,EMP0296,1157,38.0
+EMP0740,Billy King,Male,20,Khulna,Sales & Retail Ops,Entry,25706,Agency,2023-04-11,,,True,5,97.3,9.7,EMP0293,1167,38.3
+EMP0741,Lori Wheeler,Female,19,Dhaka - Mirpur,Sales & Retail Ops,Mid,41704,Walk-in,2025-10-21,2025-12-24,Other,False,3,94.9,4.5,EMP0589,64,2.1
+EMP0742,Brian Torres,Male,25,Dhaka - Mirpur,Sales & Retail Ops,Entry,25356,Online application,2022-06-05,2022-06-19,Resignation - better opportunity,False,2,87.2,6.0,EMP0553,14,0.5
+EMP0743,Gary Oliver,Male,25,Head Office,Merchandising,Entry,17079,Employee referral,2026-04-02,,,True,1,90.8,9.7,EMP0328,80,2.6
+EMP0744,Gary Cook,Male,29,Dhaka - Mirpur,Marketing,Mid,36720,Walk-in,2025-04-18,,,True,3,92.8,5.9,EMP0588,429,14.1
+EMP0745,Shannon Mccann,Female,30,Sylhet,IT & Systems,Mid,33876,Walk-in,2024-02-04,,,True,4,84.6,20.6,EMP0042,868,28.5
+EMP0746,Frank Valentine,Male,25,Dhaka - Mirpur,Merchandising,Entry,20683,Online application,2025-12-16,,,True,2,100.0,7.5,EMP0057,187,6.1
+EMP0747,Emily Oconnell,Female,27,Sylhet,Sales & Retail Ops,Mid,31428,Walk-in,2025-09-17,,,True,3,92.5,17.0,EMP0457,277,9.1
+EMP0748,Mr. Michael Henry,Male,23,Sylhet,Marketing,Manager,124234,Employee referral,2024-09-18,,,True,4,89.7,16.4,EMP0058,641,21.1
+EMP0749,Dana Bennett,Female,29,Rajshahi,Warehouse & Logistics,Entry,24890,Online application,2024-03-24,2025-01-10,Resignation - better opportunity,False,1,89.7,12.3,EMP0457,292,9.6
+EMP0750,James Wilson,Male,27,Rajshahi,Sales & Retail Ops,Mid,41997,Employee referral,2026-06-12,,,True,3,95.4,6.7,EMP0746,9,0.3
+EMP0751,Kevin Gardner,Male,29,Head Office,Warehouse & Logistics,Senior,62923,Walk-in,2025-01-29,,,True,4,86.8,9.3,EMP0487,508,16.7
+EMP0752,Krista Benton,Female,23,Head Office,Merchandising,Entry,19560,Online application,2025-02-02,2025-06-22,Performance-related,False,2,91.8,12.3,EMP0280,140,4.6
+EMP0753,Michelle Gonzales,Female,26,Chattogram,Merchandising,Mid,27181,Walk-in,2023-02-10,,,True,3,97.5,5.1,EMP0568,1227,40.3
+EMP0754,Michael Fuentes,Male,21,Chattogram,IT & Systems,Entry,21014,Employee referral,2024-09-23,2024-10-07,Contract end,False,2,91.9,0.0,EMP0158,14,0.5
+EMP0755,Jason Porter,Male,33,Dhaka - Gulshan,Marketing,Senior,44693,Agency,2025-04-27,,,True,2,85.2,8.5,EMP0504,420,13.8
+EMP0756,Dana Hopkins,Female,26,Rajshahi,HR & Admin,Entry,18159,Campus hiring,2024-09-21,,,True,2,96.5,9.0,EMP0371,638,21.0
+EMP0757,Rachel Jones,Female,28,Sylhet,Merchandising,Senior,43627,Employee referral,2024-08-28,2026-03-08,Resignation - personal reasons,False,5,82.0,3.9,EMP0590,557,18.3
+EMP0758,John Morales MD,Male,23,Dhaka - Mirpur,Sales & Retail Ops,Mid,32060,Employee referral,2024-08-07,2024-08-23,Resignation - better opportunity,False,2,94.2,0.0,EMP0370,16,0.5
+EMP0759,Michael Stephens,Male,31,Chattogram,Quality Control,Entry,21650,Agency,2024-11-11,,,True,4,96.5,0.0,EMP0644,587,19.3
+EMP0760,Ian Woodard,Male,19,Dhaka - Mirpur,Sales & Retail Ops,Mid,36941,Agency,2026-01-23,,,True,3,86.7,9.9,EMP0309,149,4.9
+EMP0761,Mark Miller,Male,28,Dhaka - Gulshan,HR & Admin,Entry,19553,Walk-in,2024-02-25,2025-09-29,Resignation - better opportunity,False,3,91.2,9.2,EMP0497,582,19.1
+EMP0762,Matthew Kelly,Male,22,Chattogram,Marketing,Entry,21618,Agency,2024-10-06,,,True,2,90.7,8.4,EMP0573,623,20.5
+EMP0763,Andrew Terrell,Male,22,Sylhet,IT & Systems,Mid,41207,Employee referral,2024-12-11,2025-05-04,Resignation - personal reasons,False,2,100.0,9.3,EMP0079,144,4.7
+EMP0764,James Goodwin,Male,27,Dhaka - Mirpur,Sales & Retail Ops,Entry,23016,Walk-in,2025-06-14,2025-10-24,Other,False,2,88.8,0.3,EMP0536,132,4.3
+EMP0765,Mr. Adam Green,Male,19,Khulna,Warehouse & Logistics,Mid,39640,Walk-in,2025-11-14,,,True,4,90.5,13.1,EMP0146,219,7.2
+EMP0766,Kelly Carpenter,Female,39,Khulna,Sales & Retail Ops,Entry,22297,Employee referral,2024-06-15,2026-05-13,Resignation - better opportunity,False,2,100.0,8.6,EMP0496,697,22.9
+EMP0767,Jill Myers,Female,22,Khulna,Sales & Retail Ops,Entry,21033,Walk-in,2024-10-20,2025-03-30,Resignation - better opportunity,False,3,95.1,0.3,EMP0068,161,5.3
+EMP0768,Kevin Mason,Male,24,Dhaka - Gulshan,Sales & Retail Ops,Entry,20616,Employee referral,2025-02-17,2025-03-03,Performance-related,False,2,97.2,3.0,EMP0030,14,0.5
+EMP0769,Allison Garcia,Female,22,Dhaka - Mirpur,Quality Control,Manager,100966,Walk-in,2024-02-19,,,True,1,96.4,10.8,EMP0747,853,28.0
+EMP0770,Tonya Wilson,Female,24,Sylhet,Merchandising,Entry,16178,Online application,2025-09-12,,,True,2,92.6,11.9,EMP0289,282,9.3
+EMP0771,Brenda Collins,Female,27,Dhaka - Mirpur,Finance & Accounts,Entry,16731,Agency,2026-03-25,,,True,2,88.9,2.9,EMP0487,88,2.9
+EMP0772,Christine Webb,Female,32,Dhaka - Gulshan,Merchandising,Entry,18933,Online application,2023-05-08,,,True,2,97.9,10.2,EMP0220,1140,37.5
+EMP0773,Jeffrey Horton,Male,25,Chattogram,Warehouse & Logistics,Mid,30479,Online application,2024-08-14,,,True,3,95.5,11.1,EMP0370,676,22.2
+EMP0774,Eric Patrick,Male,29,Khulna,Merchandising,Entry,22326,Walk-in,2022-12-27,,,True,2,91.9,10.2,EMP0320,1272,41.8
+EMP0775,Samuel Wong,Male,21,Khulna,Quality Control,Entry,17167,Online application,2026-06-03,,,True,3,88.1,5.5,EMP0488,18,0.6
+EMP0776,Carly Riggs,Female,24,Head Office,Warehouse & Logistics,Entry,22738,Online application,2025-05-20,,,True,3,89.6,11.7,EMP0693,397,13.0
+EMP0777,Christopher Moore,Male,27,Dhaka - Mirpur,Sales & Retail Ops,Entry,16913,Agency,2022-11-26,,,True,3,93.0,1.7,EMP0067,1303,42.8
+EMP0778,Tina Hall,Female,32,Dhaka - Gulshan,Sales & Retail Ops,Entry,23037,Walk-in,2024-05-15,2025-02-21,Resignation - personal reasons,False,2,92.2,5.4,EMP0731,282,9.3
+EMP0779,Cathy Davidson,Female,32,Khulna,Merchandising,Mid,33389,Online application,2026-04-16,,,True,2,88.4,10.7,EMP0415,66,2.2
+EMP0780,Allen Mendez,Male,30,Head Office,Merchandising,Entry,24181,Online application,2023-01-10,2024-05-15,Relocation,False,2,91.8,11.2,EMP0031,491,16.1
+EMP0781,Leslie Price,Female,29,Dhaka - Mirpur,Sales & Retail Ops,Entry,20267,Online application,2026-05-19,,,True,2,99.6,15.7,EMP0157,33,1.1
+EMP0782,Christine Goodwin,Female,27,Dhaka - Gulshan,HR & Admin,Mid,36814,Online application,2024-10-29,,,True,4,87.8,19.2,EMP0301,600,19.7
+EMP0783,Arthur Garcia,Male,26,Sylhet,Warehouse & Logistics,Entry,17412,Online application,2026-01-08,,,True,3,100.0,8.9,EMP0033,164,5.4
+EMP0784,Cody Nguyen,Male,31,Head Office,Quality Control,Entry,17340,Online application,2025-12-30,2026-05-15,Resignation - better opportunity,False,2,89.6,5.3,EMP0676,136,4.5
+EMP0785,Dennis Huffman,Male,24,Rajshahi,Sales & Retail Ops,Mid,30813,Employee referral,2023-02-05,,,True,3,98.5,8.5,EMP0113,1232,40.5
+EMP0786,Mark Harper,Male,21,Sylhet,Warehouse & Logistics,Mid,36486,Online application,2024-08-19,2025-09-11,Resignation - better opportunity,False,2,92.2,5.2,EMP0270,388,12.7
+EMP0787,Kevin Bailey,Male,26,Chattogram,Marketing,Mid,34543,Online application,2026-05-26,,,True,3,85.3,10.4,EMP0047,26,0.9
+EMP0788,Luis Cervantes,Male,32,Dhaka - Mirpur,Warehouse & Logistics,Senior,51297,Employee referral,2025-09-15,,,True,3,100.0,19.2,EMP0439,279,9.2
+EMP0789,Elizabeth Mendez,Female,26,Dhaka - Gulshan,Warehouse & Logistics,Entry,20645,Employee referral,2023-09-07,2025-02-16,Relocation,False,2,77.3,0.0,EMP0068,528,17.3
+EMP0790,Cesar Wilson,Male,34,Rajshahi,Sales & Retail Ops,Entry,20435,Employee referral,2022-06-13,2023-03-12,Resignation - personal reasons,False,2,96.1,2.1,EMP0432,272,8.9
+EMP0791,Catherine Steele,Female,24,Dhaka - Gulshan,HR & Admin,Mid,32768,Online application,2024-04-05,,,True,2,100.0,13.2,EMP0501,807,26.5
+EMP0792,Jason Taylor,Male,33,Dhaka - Mirpur,HR & Admin,Entry,22468,Online application,2025-09-14,,,True,1,99.8,9.7,EMP0373,280,9.2
+EMP0793,Charlene Reid,Female,29,Head Office,Sales & Retail Ops,Mid,31953,Agency,2022-09-25,,,True,3,93.9,8.8,EMP0272,1365,44.8
+EMP0794,Matthew Cooke,Male,31,Dhaka - Mirpur,Marketing,Entry,23104,Walk-in,2025-08-18,,,True,2,86.6,6.8,EMP0098,307,10.1
+EMP0795,John Taylor,Male,34,Sylhet,Sales & Retail Ops,Mid,33450,Online application,2024-06-18,2024-07-02,Contract end,False,2,89.5,5.3,EMP0517,14,0.5
+EMP0796,Jerry Brown,Male,25,Khulna,Warehouse & Logistics,Mid,37845,Employee referral,2024-05-12,,,True,2,88.0,13.7,EMP0782,770,25.3
+EMP0797,Adam Taylor,Male,33,Chattogram,Quality Control,Mid,40960,Online application,2023-05-19,,,True,2,88.8,2.1,EMP0761,1129,37.1
+EMP0798,Tracey Wagner,Female,28,Head Office,Sales & Retail Ops,Mid,26294,Agency,2025-12-30,,,True,3,97.2,14.5,EMP0745,173,5.7
+EMP0799,Michael Perry,Male,23,Sylhet,Merchandising,Entry,18809,Employee referral,2023-03-10,,,True,3,89.5,14.0,EMP0446,1199,39.4
+EMP0800,Katherine Miller,Female,22,Chattogram,Quality Control,Senior,66326,Walk-in,2025-12-22,,,True,3,94.4,10.1,EMP0165,181,5.9
+EMP0801,Philip Carter,Male,24,Dhaka - Gulshan,Merchandising,Entry,24243,Walk-in,2023-05-29,,,True,3,99.8,10.4,EMP0476,1119,36.8
+EMP0802,Kimberly Jackson,Female,19,Chattogram,Marketing,Entry,17867,Walk-in,2023-06-17,2023-10-01,Contract end,False,3,88.9,3.6,EMP0285,106,3.5
+EMP0803,Natalie Cannon,Female,29,Sylhet,Sales & Retail Ops,Senior,64813,Walk-in,2024-09-11,,,True,3,96.7,13.2,EMP0086,648,21.3
+EMP0804,Ashley Wilson,Female,26,Dhaka - Gulshan,Sales & Retail Ops,Entry,18601,Employee referral,2026-02-21,,,True,2,86.7,5.3,EMP0407,120,3.9
+EMP0805,Rodney Richardson,Male,24,Head Office,Finance & Accounts,Entry,17230,Agency,2025-08-07,,,True,3,87.7,11.3,EMP0595,318,10.4
+EMP0806,Amanda Ball,Female,36,Head Office,Marketing,Entry,24107,Walk-in,2023-08-21,,,True,3,91.9,5.6,EMP0338,1035,34.0
+EMP0807,Wanda Garcia,Female,27,Rajshahi,Finance & Accounts,Senior,51269,Walk-in,2026-04-07,,,True,2,92.0,10.8,EMP0220,75,2.5
+EMP0808,Paul Evans,Male,25,Head Office,Warehouse & Logistics,Entry,21966,Online application,2024-09-18,,,True,4,100.0,13.0,EMP0325,641,21.1
+EMP0809,Mr. Gregory Montoya MD,Male,33,Chattogram,Warehouse & Logistics,Entry,24316,Walk-in,2025-10-08,,,True,3,86.9,17.0,EMP0377,256,8.4
+EMP0810,Reginald Young PhD,Male,27,Rajshahi,Sales & Retail Ops,Manager,76320,Employee referral,2025-12-17,,,True,2,91.7,7.0,EMP0708,186,6.1
+EMP0811,Gregory Page,Male,31,Rajshahi,HR & Admin,Entry,21398,Employee referral,2025-04-07,,,True,4,93.2,17.5,EMP0702,440,14.5
+EMP0812,Christopher Taylor,Male,34,Dhaka - Mirpur,Quality Control,Senior,56201,Online application,2026-03-08,,,True,2,100.0,4.1,EMP0262,105,3.4
+EMP0813,Daniel Brown,Male,22,Dhaka - Gulshan,Marketing,Mid,40166,Walk-in,2026-01-07,,,True,4,100.0,10.8,EMP0325,165,5.4
+EMP0814,Douglas Ryan,Male,33,Rajshahi,Finance & Accounts,Entry,23481,Agency,2026-01-16,,,True,3,91.8,7.9,EMP0483,156,5.1
+EMP0815,Michael Roberts,Male,29,Khulna,Marketing,Entry,22413,Walk-in,2026-03-18,,,True,3,99.8,11.7,EMP0268,95,3.1
+EMP0816,Shannon Duke,Female,21,Chattogram,Warehouse & Logistics,Mid,39204,Online application,2025-08-12,2025-11-12,Resignation - better opportunity,False,2,89.3,1.2,EMP0657,92,3.0
+EMP0817,Brandon Estes,Male,27,Dhaka - Mirpur,Warehouse & Logistics,Mid,40271,Online application,2023-06-14,,,True,3,100.0,10.6,EMP0114,1103,36.2
+EMP0818,Tamara Riddle,Female,26,Dhaka - Mirpur,Merchandising,Manager,84667,Agency,2025-09-12,,,True,2,89.9,12.0,EMP0812,282,9.3
+EMP0819,Cameron Cline,Male,25,Head Office,Warehouse & Logistics,Senior,64641,Employee referral,2023-04-24,,,True,3,86.3,14.6,EMP0289,1154,37.9
+EMP0820,Michelle Poole,Female,22,Dhaka - Mirpur,Warehouse & Logistics,Entry,18121,Agency,2026-04-18,,,True,4,84.4,10.9,EMP0024,64,2.1
+EMP0821,Megan Burns,Female,21,Head Office,HR & Admin,Mid,30823,Walk-in,2026-05-22,,,True,3,95.8,9.1,EMP0173,30,1.0
+EMP0822,Derrick Perry,Male,37,Dhaka - Mirpur,Merchandising,Mid,30212,Walk-in,2026-05-03,,,True,4,87.2,13.2,EMP0015,49,1.6
+EMP0823,Mark Beard,Male,24,Khulna,Warehouse & Logistics,Senior,54982,Walk-in,2025-05-22,,,True,3,95.2,12.4,EMP0196,395,13.0
+EMP0824,Kelli Ramirez,Female,19,Head Office,IT & Systems,Entry,18148,Online application,2024-04-12,,,True,3,93.0,9.3,EMP0221,800,26.3
+EMP0825,Jacob Clements,Male,32,Head Office,Sales & Retail Ops,Mid,33543,Walk-in,2024-05-22,2025-12-15,Resignation - better opportunity,False,3,83.8,3.2,EMP0633,572,18.8
+EMP0826,April Schroeder,Female,37,Chattogram,Sales & Retail Ops,Mid,40259,Online application,2022-10-20,,,True,3,97.4,4.4,EMP0710,1340,44.0
+EMP0827,Nicholas Ellis,Male,19,Chattogram,Sales & Retail Ops,Entry,21599,Walk-in,2025-02-11,,,True,3,93.9,13.4,EMP0054,495,16.3
+EMP0828,Heather Brown,Female,19,Dhaka - Gulshan,Sales & Retail Ops,Senior,66480,Campus hiring,2026-04-12,,,True,2,98.2,12.6,EMP0767,70,2.3
+EMP0829,Daniel Jordan,Male,33,Khulna,Sales & Retail Ops,Mid,34857,Employee referral,2026-05-26,,,True,2,94.0,12.3,EMP0573,26,0.9
+EMP0830,Derrick Clayton,Male,23,Dhaka - Mirpur,Sales & Retail Ops,Entry,18349,Online application,2024-02-05,2024-02-19,Performance-related,False,3,90.9,10.5,EMP0444,14,0.5
+EMP0831,Kenneth Knight,Male,34,Dhaka - Mirpur,Sales & Retail Ops,Entry,18511,Agency,2026-01-22,,,True,1,100.0,7.3,EMP0441,150,4.9
+EMP0832,Hailey Fleming,Female,30,Dhaka - Gulshan,Quality Control,Mid,30243,Online application,2023-10-05,,,True,2,84.5,10.9,EMP0324,990,32.5
+EMP0833,Brett Bowers,Male,24,Khulna,Warehouse & Logistics,Manager,113254,Employee referral,2026-03-23,,,True,3,87.9,9.0,EMP0194,90,3.0
+EMP0834,Caleb Mathews,Male,22,Dhaka - Mirpur,Sales & Retail Ops,Entry,16067,Online application,2025-07-02,,,True,1,93.4,13.8,EMP0507,354,11.6
+EMP0835,Aaron Rubio,Male,35,Dhaka - Mirpur,Warehouse & Logistics,Mid,41116,Agency,2024-09-21,,,True,4,93.8,18.4,EMP0127,638,21.0
+EMP0836,Melissa Anderson,Female,19,Dhaka - Gulshan,Sales & Retail Ops,Entry,21091,Agency,2025-08-27,,,True,2,87.0,8.7,EMP0680,298,9.8
+EMP0837,Christopher Cantu,Male,29,Sylhet,Merchandising,Manager,107041,Online application,2025-01-07,2026-01-23,Contract end,False,2,100.0,6.6,EMP0694,381,12.5
+EMP0838,Mary Wright,Female,19,Dhaka - Mirpur,Warehouse & Logistics,Entry,24269,Online application,2023-01-10,,,True,3,89.6,10.8,EMP0109,1258,41.3
+EMP0839,Stephanie Martin,Female,28,Rajshahi,Sales & Retail Ops,Entry,21311,Online application,2025-05-04,,,True,4,86.9,7.7,EMP0609,413,13.6
+EMP0840,Elizabeth Lyons,Female,24,Sylhet,Warehouse & Logistics,Entry,20575,Campus hiring,2024-07-26,,,True,3,96.2,11.7,EMP0817,695,22.8
+EMP0841,Mary Padilla,Female,31,Sylhet,Sales & Retail Ops,Entry,22666,Walk-in,2024-01-11,2024-02-12,Relocation,False,2,97.9,6.7,EMP0391,32,1.1
+EMP0842,Karen Anderson,Female,23,Dhaka - Mirpur,Sales & Retail Ops,Entry,25602,Walk-in,2024-05-07,2024-12-06,Resignation - better opportunity,False,2,92.4,3.0,EMP0413,213,7.0
+EMP0843,Michael Smith,Male,27,Dhaka - Gulshan,Finance & Accounts,Mid,34007,Online application,2024-09-18,,,True,3,86.5,6.4,EMP0318,641,21.1
+EMP0844,Robert Mcneil,Male,34,Rajshahi,Merchandising,Entry,19723,Walk-in,2024-03-20,,,True,3,93.8,9.3,EMP0398,823,27.0
+EMP0845,Brandi Jones,Female,23,Chattogram,Merchandising,Entry,16882,Employee referral,2025-11-10,,,True,3,96.3,6.6,EMP0437,223,7.3
+EMP0846,Monica Garcia,Female,28,Dhaka - Mirpur,Merchandising,Manager,73204,Employee referral,2025-04-19,,,True,3,95.1,10.8,EMP0540,428,14.1
+EMP0847,Stanley Taylor,Male,22,Sylhet,Merchandising,Entry,21200,Online application,2026-03-05,2026-03-19,Resignation - better opportunity,False,3,92.1,0.0,EMP0308,14,0.5
+EMP0848,Paul Anderson,Male,44,Rajshahi,Merchandising,Entry,22795,Walk-in,2022-09-28,2022-11-24,Resignation - personal reasons,False,2,94.5,0.0,EMP0097,57,1.9
+EMP0849,Charles Moreno Jr.,Male,37,Chattogram,Finance & Accounts,Senior,51327,Employee referral,2025-01-27,2025-08-27,Performance-related,False,2,82.9,2.1,EMP0474,212,7.0
+EMP0850,Jeremiah Bowen,Male,19,Dhaka - Mirpur,Sales & Retail Ops,Entry,25521,Walk-in,2026-01-28,,,True,2,97.6,12.0,EMP0466,144,4.7
+EMP0851,Christian Jenkins,Male,19,Khulna,Warehouse & Logistics,Senior,49868,Employee referral,2026-03-18,,,True,2,100.0,11.4,EMP0081,95,3.1
+EMP0852,Scott Miller,Male,27,Khulna,Merchandising,Senior,57479,Walk-in,2024-11-18,2025-08-22,Resignation - better opportunity,False,3,84.8,6.4,EMP0489,277,9.1
+EMP0853,Nicole Lawrence,Female,30,Chattogram,Warehouse & Logistics,Mid,41802,Online application,2025-07-28,,,True,3,100.0,9.4,EMP0632,328,10.8
+EMP0854,Victor Edwards,Male,27,Dhaka - Gulshan,HR & Admin,Mid,35513,Walk-in,2023-12-08,2023-12-22,Resignation - better opportunity,False,2,87.1,4.8,EMP0017,14,0.5
+EMP0855,Donald Miller,Male,19,Khulna,Sales & Retail Ops,Entry,24371,Walk-in,2023-02-27,,,True,2,95.3,17.0,EMP0809,1210,39.8
+EMP0856,Kyle Lawson,Male,24,Chattogram,Sales & Retail Ops,Mid,38576,Walk-in,2024-06-10,,,True,3,89.9,9.6,EMP0757,741,24.3
+EMP0857,Melissa Abbott,Female,24,Khulna,Marketing,Mid,29874,Walk-in,2025-01-26,,,True,3,85.3,15.3,EMP0854,511,16.8
+EMP0858,Elizabeth Holmes,Female,25,Chattogram,Warehouse & Logistics,Entry,22727,Online application,2024-06-25,,,True,2,94.3,8.7,EMP0593,726,23.9
+EMP0859,Paul Phillips,Male,28,Sylhet,Merchandising,Entry,16138,Employee referral,2024-09-11,,,True,4,82.0,10.6,EMP0695,648,21.3
+EMP0860,Steven Blevins,Male,31,Rajshahi,Quality Control,Entry,21720,Online application,2022-04-12,,,True,2,86.1,0.0,EMP0275,1531,50.3
+EMP0861,Brian Porter,Male,22,Rajshahi,Warehouse & Logistics,Mid,35494,Online application,2026-04-11,,,True,2,92.0,6.6,EMP0022,71,2.3
+EMP0862,Joseph Levine,Male,31,Dhaka - Mirpur,Finance & Accounts,Mid,39304,Employee referral,2024-10-12,,,True,3,98.6,18.8,EMP0617,617,20.3
+EMP0863,Taylor Anderson DVM,Female,21,Rajshahi,Finance & Accounts,Mid,41372,Online application,2025-07-24,,,True,2,87.3,10.1,EMP0690,332,10.9
+EMP0864,Holly Vega,Female,26,Sylhet,Warehouse & Logistics,Mid,29326,Walk-in,2023-04-02,,,True,3,88.6,10.7,EMP0089,1176,38.6
+EMP0865,Troy Townsend,Male,32,Sylhet,Sales & Retail Ops,Entry,21092,Online application,2022-11-24,,,True,2,91.4,9.6,EMP0311,1305,42.9
+EMP0866,Austin Baker,Male,24,Dhaka - Gulshan,Merchandising,Manager,109213,Employee referral,2023-09-30,,,True,4,95.0,13.4,EMP0516,995,32.7
+EMP0867,Antonio Mccormick,Male,21,Dhaka - Mirpur,Sales & Retail Ops,Entry,18892,Walk-in,2023-01-07,2023-10-22,Resignation - better opportunity,False,2,92.5,8.8,EMP0364,288,9.5
+EMP0868,Lori Mason,Female,20,Khulna,Finance & Accounts,Mid,37163,Agency,2025-12-31,,,True,4,96.4,7.2,EMP0107,172,5.7
+EMP0869,Michael Miller,Male,28,Khulna,Marketing,Entry,22154,Walk-in,2025-12-17,2026-04-18,Resignation - personal reasons,False,3,92.9,4.5,EMP0801,122,4.0
+EMP0870,Luis Ramirez,Male,25,Rajshahi,Sales & Retail Ops,Mid,27008,Walk-in,2023-04-12,2023-11-14,Resignation - better opportunity,False,2,90.6,9.9,EMP0746,216,7.1
+EMP0871,Kayla Harris,Female,19,Dhaka - Gulshan,Warehouse & Logistics,Mid,32964,Employee referral,2022-11-21,2023-04-04,Resignation - better opportunity,False,2,93.0,1.8,EMP0869,134,4.4
+EMP0872,Joshua Myers,Male,33,Dhaka - Mirpur,Marketing,Mid,28803,Online application,2025-12-09,,,True,2,86.4,15.7,EMP0176,194,6.4
+EMP0873,Ruben Becker,Male,37,Dhaka - Mirpur,Warehouse & Logistics,Mid,35257,Walk-in,2025-05-11,,,True,2,96.4,5.0,EMP0432,406,13.3
+EMP0874,Melissa Blair,Female,30,Khulna,Sales & Retail Ops,Entry,19172,Campus hiring,2026-02-22,,,True,3,92.0,7.5,EMP0699,119,3.9
+EMP0875,Anthony Miller,Male,21,Dhaka - Gulshan,Sales & Retail Ops,Entry,20402,Campus hiring,2025-11-04,,,True,1,96.9,4.7,EMP0323,229,7.5
+EMP0876,Jesse Lynch,Male,23,Chattogram,Finance & Accounts,Entry,25524,Agency,2022-06-12,2023-02-10,Resignation - personal reasons,False,2,89.5,9.7,EMP0647,243,8.0
+EMP0877,Natalie Yang,Female,22,Head Office,IT & Systems,Senior,46524,Agency,2024-06-07,,,True,2,87.7,4.3,EMP0312,744,24.4
+EMP0878,Michelle Miles,Female,20,Khulna,Sales & Retail Ops,Entry,18911,Employee referral,2026-02-25,,,True,1,93.7,7.5,EMP0414,116,3.8
+EMP0879,Tiffany Mills,Female,30,Chattogram,Sales & Retail Ops,Mid,34102,Employee referral,2025-04-24,,,True,1,93.7,9.7,EMP0801,423,13.9
+EMP0880,Nathan Jackson,Male,25,Sylhet,Finance & Accounts,Senior,45815,Online application,2024-11-22,,,True,3,93.9,9.8,EMP0130,576,18.9
+EMP0881,Richard Adams,Male,33,Chattogram,Merchandising,Entry,25266,Online application,2023-12-24,,,True,3,80.0,7.9,EMP0024,910,29.9
+EMP0882,Raymond Johnson,Male,29,Dhaka - Mirpur,IT & Systems,Mid,41032,Employee referral,2025-09-26,,,True,3,83.9,0.0,EMP0114,268,8.8
+EMP0883,Dillon Brown,Male,31,Khulna,Quality Control,Entry,19491,Employee referral,2023-01-14,,,True,4,87.3,9.3,EMP0460,1254,41.2
+EMP0884,Laura Jones,Female,32,Dhaka - Gulshan,Finance & Accounts,Mid,31588,Campus hiring,2025-11-03,,,True,3,96.2,8.1,EMP0643,230,7.6
+EMP0885,Ian Porter,Male,22,Sylhet,Quality Control,Entry,22811,Employee referral,2025-05-14,,,True,1,100.0,10.0,EMP0144,403,13.2
+EMP0886,Jacob Scott,Male,21,Khulna,Merchandising,Entry,16402,Agency,2025-01-22,,,True,2,90.6,7.1,EMP0101,515,16.9
+EMP0887,Kenneth Sharp,Male,19,Dhaka - Mirpur,Warehouse & Logistics,Entry,24210,Walk-in,2024-06-15,,,True,3,90.1,6.1,EMP0080,736,24.2
+EMP0888,Jordan Williams,Male,26,Dhaka - Gulshan,Merchandising,Mid,32468,Walk-in,2024-05-01,,,True,3,90.7,9.4,EMP0434,781,25.7
+EMP0889,Dana Ruiz,Female,36,Head Office,HR & Admin,Manager,112921,Walk-in,2024-06-03,,,True,2,94.7,8.0,EMP0497,748,24.6
+EMP0890,Brittany Velazquez,Female,34,Khulna,Sales & Retail Ops,Mid,38006,Walk-in,2023-01-01,,,True,3,97.1,9.5,EMP0765,1267,41.6
+EMP0891,Juan Sloan,Male,26,Dhaka - Mirpur,Merchandising,Senior,65722,Walk-in,2025-12-30,,,True,3,82.8,20.6,EMP0297,173,5.7
+EMP0892,Jennifer Morris,Female,33,Dhaka - Mirpur,Sales & Retail Ops,Entry,22238,Online application,2023-12-09,,,True,1,75.0,12.3,EMP0146,925,30.4
+EMP0893,Nathan Nelson,Male,25,Khulna,Warehouse & Logistics,Manager,101461,Walk-in,2023-11-07,,,True,3,80.9,8.7,EMP0003,957,31.4
+EMP0894,Jake Shaw,Male,23,Dhaka - Mirpur,Warehouse & Logistics,Senior,55368,Online application,2025-01-10,,,True,1,88.2,10.6,EMP0801,527,17.3
+EMP0895,Christopher Brock,Male,22,Dhaka - Gulshan,IT & Systems,Senior,53586,Employee referral,2023-02-14,,,True,4,100.0,9.0,EMP0684,1223,40.2
+EMP0896,Tiffany Jones DDS,Female,22,Chattogram,Quality Control,Entry,21490,Online application,2025-05-10,,,True,2,96.1,14.9,EMP0405,407,13.4
+EMP0897,Ryan Murphy,Male,27,Dhaka - Gulshan,Sales & Retail Ops,Mid,34695,Walk-in,2023-10-28,2025-05-04,Resignation - better opportunity,False,3,100.0,2.1,EMP0646,554,18.2
+EMP0898,Adam Gonzalez,Male,29,Khulna,Finance & Accounts,Mid,38710,Walk-in,2024-12-22,,,True,2,89.9,8.8,EMP0591,546,17.9
+EMP0899,Elizabeth Dean,Female,28,Khulna,Marketing,Mid,27860,Walk-in,2024-10-05,,,True,3,83.6,15.4,EMP0545,624,20.5
+EMP0900,Kevin Snyder,Male,27,Dhaka - Mirpur,Sales & Retail Ops,Senior,58727,Agency,2025-07-02,,,True,1,89.4,14.4,EMP0827,354,11.6
