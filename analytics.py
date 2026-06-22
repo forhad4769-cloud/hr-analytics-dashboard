@@ -19,7 +19,22 @@ DATA_PATH = os.path.join(os.path.dirname(_THIS_DIR), "data", "employees.csv")
 
 
 def load_data(path: str = DATA_PATH) -> pd.DataFrame:
-    """Load the employee dataset and parse date columns."""
+    """Load the employee dataset, generating it first if it doesn't exist."""
+    if not os.path.exists(path):
+        # Generate the synthetic dataset on first run (e.g. on Streamlit
+        # Community Cloud where the repo doesn't contain the CSV).
+        import sys
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        # data/generate_data.py sits one level above src/
+        data_dir = os.path.dirname(path)
+        os.makedirs(data_dir, exist_ok=True)
+        import importlib.util
+        gen_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "generate_data.py")
+        spec = importlib.util.spec_from_file_location("generate_data", gen_path)
+        gen = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(gen)
+        gen.main()
+
     df = pd.read_csv(path)
     df["hire_date"] = pd.to_datetime(df["hire_date"])
     df["termination_date"] = pd.to_datetime(df["termination_date"])
