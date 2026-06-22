@@ -7,13 +7,19 @@ data - see data/generate_data.py). Run with:
     streamlit run app.py
 """
 
+import os
 import sys
 
 import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-sys.path.insert(0, "src")
+# Anchor to this file's own location, not the current working directory -
+# the working directory isn't guaranteed to be the project root when this
+# runs on Streamlit Community Cloud, even though it always is when you run
+# `streamlit run app.py` from inside the project folder locally.
+APP_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(APP_DIR, "src"))
 import analytics as a  # noqa: E402
 import risk_model as rm  # noqa: E402
 
